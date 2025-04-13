@@ -1,0 +1,8 @@
+Tabledate = CALENDAR(date(2001,01,01),date(2025,01,01))
+Mois = month(Tabledate[Date])
+LeMois = FORMAT( Tabledate[Date],"MMMM")
+Année = format(Tabledate[Date],"YYYY")
+
+
+Utilisation du filtrage différentiel
+Filtrage des données dans l'interface selon les dates
