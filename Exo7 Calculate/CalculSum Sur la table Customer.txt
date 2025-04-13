@@ -1,0 +1,36 @@
+Nouvelle Colonne Table Customer CalculSum = sum(Customer[RelatedExemple])
+
+Nouvelle Colonne pour démontrer la transition de contexte,
+Le contexte de ligne devient un contexte de filtre.
+CalculateSum = CALCULATE(sum(Customer[RelatedExemple]))
+
+
+Exemple élaboré d'une transition de contexte : (marche avec Earlier ou Variable)
+
+TotalVentesPrecedentes = 
+var Client ='Table'[Client]
+var LaDate = 'Table'[Date]
+return CALCULATE(
+    SUM('Table'[Montant]), 
+    FILTER(
+        'Table', 
+        'Table'[Client] = EARLIER('Table'[Client]) && 'Table'[Date] <EARLIER('Table'[Date])
+    )
+)
+
+CALCULATE : Cette fonction modifie le contexte de la ligne pour effectuer le calcul dans un autre contexte.
+
+SUM(Ventes[Montant]) : Nous sommes en train de calculer la somme des ventes.
+
+FILTER : Nous appliquons un filtre pour limiter le calcul aux ventes effectuées par le même client et avant la vente actuelle.
+
+EARLIER : La fonction EARLIER est utilisée pour accéder aux valeurs de la ligne précédente dans le contexte, permettant de comparer la vente en cours avec les autres ventes du même client. Elle est cruciale pour référencer les valeurs dans le contexte de ligne actuel tout en appliquant un filtre.
+
+EARLIER(Ventes[Client]) : Obtient le client de la ligne actuelle.
+
+EARLIER(Ventes[Date]) : Obtient la date de la ligne actuelle.
+
+
+
+
+

@@ -1,0 +1,3 @@
+EVALUATE
+    CALCULATETABLE(Sales,filter(Sales,Sales[Unit Price]<100))
+	
