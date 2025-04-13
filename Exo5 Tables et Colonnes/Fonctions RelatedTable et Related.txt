@@ -1,0 +1,3 @@
+RelatedExemple = countrows(relatedtable(Sales))
+
+SalesResellerRelated = RELATED(Reseller[Reseller])
