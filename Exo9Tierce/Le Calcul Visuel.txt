@@ -1,0 +1,4 @@
+Réaliser par calcul visuel :
+
+Les Montant des ventes sur une période mis en regards des investissements sur la période précédente.
+Le montant des ventes de la période actuelle par rapport à la premiere période.
