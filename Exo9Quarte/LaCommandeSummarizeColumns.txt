@@ -1,0 +1,9 @@
+Regrouper les montants de vente par Catégorie et sous catégorie 
+
+SUMMARIZECOLUMNS(Champs de Regroupement, Champs de regroupements, "NomNouveelleColonne", Calcul A Associer)
+
+Essayer aussi de rajouter une colonne a une table avec AddColumns
+dans un evaluate.
+AddColumns(Table, Nom,Expression)
+
+
