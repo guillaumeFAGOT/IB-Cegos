@@ -1,0 +1,1001 @@
+Examens,Sujet,Nom,Prénom,Matiere,Lycée,Surveillant,Date
+1,Examen Ier Trimestre;1,Murphy,Lawrence,Math;1,Notre Dame de toutes Aides;3,Pauline Boulay	;3,2016-01-16 07:30:47
+2,Examen 3eme Trimestre;3,Boyer,Lisa,Anglais;4,Chavagne;2,Marguerite Michel;8,2016-06-03 07:13:01
+3,Examen 2eme Trimestre;2,Erickson,Anna,Francais;5,Notre Dame de toutes Aides;3,Sophie Parent;11,2002-12-15 12:35:23
+4,Examen 2eme Trimestre;2,Solis,Kevin,Allemand;3,Lycée Clemenceau;5Lycée Saint Stanislas;6,Marguerite Michel;8,1988-10-09 09:30:14
+5,Examen 2eme Trimestre;2,Smith,Gary,Allemand;3,Notre Dame de toutes Aides;3,Daniel Bertin-Martin;5,1971-11-25 06:23:37
+6,Examen 3eme Trimestre;3,Williams,Joseph,Math;1,La Perverie;4,Théophile-Michel Renault;12,1991-04-25 19:36:05
+7,Examen 3eme Trimestre;3,Wilson,Anthony,Francais;5,Chavagne;2,Jacqueline de Bruneau;7,1983-11-15 11:40:14
+8,Examen 2eme Trimestre;2,Smith,Nicole,Allemand;3,Lycée Clemenceau;5Lycée Saint Stanislas;6,Marcel Didier;10,1981-03-06 10:54:13
+9,Examen 3eme Trimestre;3,Daniels,David,Francais;5,Notre Dame de toutes Aides;3,Théophile-Michel Renault;12,1979-11-29 02:53:18
+10,Examen 3eme Trimestre;3,Jefferson,Julia,Hist-Géo;2,Loquidy;1,Augustin Gauthier-Allard;9,2002-06-17 10:00:41
+11,Examen Ier Trimestre;1,Hill,Virginia,Allemand;3,Lycée Clemenceau;5Lycée Saint Stanislas;6,Jacqueline de Bruneau;7,1982-03-31 04:59:39
+12,Examen 3eme Trimestre;3,Zamora,Laura,Anglais;4,La Perverie;4,Juliette Renault;13,1997-07-29 22:43:35
+13,Examen Ier Trimestre;1,Marquez,Wesley,Math;1,Lycée Clemenceau;5Lycée Saint Stanislas;6,Pauline Boulay	;3,1975-05-24 02:11:48
+14,Examen 2eme Trimestre;2,Ramsey,Tammy,Allemand;3,La Perverie;4,Corinne du Gaillard;1,2014-08-21 13:38:20
+15,Examen Ier Trimestre;1,Welch,Andrew,Hist-Géo;2,Lycée Clemenceau;5Lycée Saint Stanislas;6,Corinne du Gaillard;1,1990-12-22 16:43:35
+16,Examen Ier Trimestre;1,Bishop,Joseph,Anglais;4,Lycée Clemenceau;5Lycée Saint Stanislas;6,Daniel Bertin-Martin;5,1992-01-15 21:17:23
+17,Examen Ier Trimestre;1,Reed,Isaac,Allemand;3,Loquidy;1,Théophile-Michel Renault;12,2007-01-14 00:28:58
+18,Examen 3eme Trimestre;3,Wood,Danny,Allemand;3,La Perverie;4,Eleonore Leroy Le Giraud;14,1999-04-24 18:55:37
+19,Examen Ier Trimestre;1,Dawson,Brenda,Anglais;4,Lycée Clemenceau;5Lycée Saint Stanislas;6,Théophile-Michel Renault;12,2013-01-28 21:14:48
+20,Examen Ier Trimestre;1,Rodriguez,Nathan,Hist-Géo;2,Notre Dame de toutes Aides;3,Juliette Renault;13,2025-03-11 22:57:10
+21,Examen 3eme Trimestre;3,Pace,Mary,Allemand;3,Lycée Clemenceau;5Lycée Saint Stanislas;6,Juliette Renault;13,1987-12-02 08:35:19
+22,Examen 2eme Trimestre;2,Ramsey,Sarah,Math;1,La Perverie;4,Pauline Boulay	;3,1973-11-13 13:02:53
+23,Examen Ier Trimestre;1,Callahan,Kayla,Allemand;3,Chavagne;2,Juliette Renault;13,1993-11-20 05:22:00
+24,Examen 3eme Trimestre;3,Conner,Joshua,Hist-Géo;2,Chavagne;2,Eleonore Leroy Le Giraud;14,2022-06-29 10:37:06
+25,Examen 2eme Trimestre;2,Cooper,Anthony,Francais;5,Lycée Clemenceau;5Lycée Saint Stanislas;6,Marguerite Michel;8,2017-10-28 03:26:43
+26,Examen 3eme Trimestre;3,Ochoa,Elizabeth,Math;1,Chavagne;2,Augustin Gauthier-Allard;9,1987-09-08 02:00:08
+27,Examen Ier Trimestre;1,Brown,David,Hist-Géo;2,Loquidy;1,Augustin Gauthier-Allard;9,1992-01-27 16:36:10
+28,Examen 2eme Trimestre;2,Preston,Christine,Anglais;4,Notre Dame de toutes Aides;3,Marguerite Michel;8,1997-05-13 10:35:19
+29,Examen Ier Trimestre;1,Everett,David,Allemand;3,Notre Dame de toutes Aides;3,Pauline Boulay	;3,1975-02-13 19:06:10
+30,Examen 3eme Trimestre;3,Williams,Erica,Francais;5,Notre Dame de toutes Aides;3,Juliette Renault;13,2005-06-27 01:26:17
+31,Examen 3eme Trimestre;3,Cabrera,Lonnie,Francais;5,Chavagne;2,Marcel Didier;10,2015-09-20 11:27:51
+32,Examen 3eme Trimestre;3,Proctor,Lori,Math;1,Lycée Clemenceau;5Lycée Saint Stanislas;6,Juliette Renault;13,2021-07-03 18:35:45
+33,Examen Ier Trimestre;1,Jones,Matthew,Anglais;4,Notre Dame de toutes Aides;3,Corinne du Gaillard;1,1988-07-12 00:21:47
+34,Examen 2eme Trimestre;2,Morris,Miguel,Hist-Géo;2,La Perverie;4,Corinne du Gaillard;1,1994-12-14 20:44:52
+35,Examen 2eme Trimestre;2,Anderson,Gilbert,Anglais;4,La Perverie;4,Juliette Renault;13,1973-12-22 10:23:29
+36,Examen 3eme Trimestre;3,Roberts,Christopher,Anglais;4,Lycée Clemenceau;5Lycée Saint Stanislas;6,Théophile-Michel Renault;12,1983-07-07 13:12:52
+37,Examen 2eme Trimestre;2,Carter,Jennifer,Francais;5,La Perverie;4,Daniel Bertin-Martin;5,1994-09-23 07:08:45
+38,Examen 2eme Trimestre;2,Keller,Diana,Anglais;4,Notre Dame de toutes Aides;3,Marguerite Michel;8,2023-12-27 16:19:00
+39,Examen Ier Trimestre;1,Zimmerman,Taylor,Anglais;4,La Perverie;4,Marcel Didier;10,2016-09-12 03:25:21
+40,Examen Ier Trimestre;1,Sanford,Virginia,Anglais;4,Lycée Clemenceau;5Lycée Saint Stanislas;6,Théophile-Michel Renault;12,1970-08-20 09:49:26
+41,Examen 2eme Trimestre;2,Jones,Dawn,Hist-Géo;2,Notre Dame de toutes Aides;3,Juliette Renault;13,1971-08-30 23:33:39
+42,Examen 2eme Trimestre;2,Jacobs,Ann,Allemand;3,Loquidy;1,Emmanuel Fernandes-Lopez	;	2	,2003-12-04 03:02:53
+43,Examen Ier Trimestre;1,Carroll,Chad,Anglais;4,Lycée Clemenceau;5Lycée Saint Stanislas;6,Daniel Bertin-Martin;5,2015-07-03 01:30:35
+44,Examen 3eme Trimestre;3,Hernandez,Samuel,Francais;5,Lycée Clemenceau;5Lycée Saint Stanislas;6,Thibaut Boulay;6,2014-12-11 17:19:42
+45,Examen 2eme Trimestre;2,Morales,Victor,Anglais;4,Notre Dame de toutes Aides;3,Corinne du Gaillard;1,1972-01-11 22:18:17
+46,Examen 2eme Trimestre;2,Howe,Andrew,Hist-Géo;2,Chavagne;2,Sophie Parent;11,2011-12-15 15:02:25
+47,Examen 2eme Trimestre;2,Reed,Melissa,Anglais;4,La Perverie;4,Théophile-Michel Renault;12,1984-12-17 05:55:02
+48,Examen 2eme Trimestre;2,Mills,Brent,Anglais;4,Lycée Clemenceau;5Lycée Saint Stanislas;6,Pauline Boulay	;3,1980-09-22 23:18:27
+49,Examen Ier Trimestre;1,Pittman,Natalie,Math;1,Loquidy;1,Daniel Bertin-Martin;5,2002-09-26 12:14:02
+50,Examen Ier Trimestre;1,Curtis,Courtney,Math;1,Lycée Clemenceau;5Lycée Saint Stanislas;6,Juliette Renault;13,1992-06-26 14:56:22
+51,Examen 2eme Trimestre;2,Martinez,Timothy,Francais;5,La Perverie;4,Emmanuel Fernandes-Lopez	;	2	,1970-08-05 08:16:19
+52,Examen 3eme Trimestre;3,Brooks,Meghan,Hist-Géo;2,Lycée Clemenceau;5Lycée Saint Stanislas;6,Raymond-Philippe Bernard;4,2012-06-25 17:22:52
+53,Examen 3eme Trimestre;3,Harrison,Mitchell,Math;1,Loquidy;1,Emmanuel Fernandes-Lopez	;	2	,1994-10-14 08:21:37
+54,Examen 2eme Trimestre;2,Turner,Angela,Hist-Géo;2,Loquidy;1,Eleonore Leroy Le Giraud;14,1997-05-30 17:32:10
+55,Examen 2eme Trimestre;2,Rodriguez,Jesse,Francais;5,La Perverie;4,Eleonore Leroy Le Giraud;14,2004-02-14 05:05:01
+56,Examen 2eme Trimestre;2,Perkins,Keith,Allemand;3,Loquidy;1,Emmanuel Fernandes-Lopez	;	2	,2012-09-21 06:36:03
+57,Examen 3eme Trimestre;3,Montoya,Christina,Hist-Géo;2,Notre Dame de toutes Aides;3,Raymond-Philippe Bernard;4,1992-12-12 03:33:08
+58,Examen 2eme Trimestre;2,Mora,James,Hist-Géo;2,Lycée Clemenceau;5Lycée Saint Stanislas;6,Augustin Gauthier-Allard;9,2018-09-26 13:48:34
+59,Examen Ier Trimestre;1,Wells,Cynthia,Anglais;4,Loquidy;1,Daniel Bertin-Martin;5,1970-10-19 10:38:01
+60,Examen Ier Trimestre;1,Moore,Lisa,Francais;5,Lycée Clemenceau;5Lycée Saint Stanislas;6,Juliette Renault;13,2021-10-13 22:34:47
+61,Examen Ier Trimestre;1,Bartlett,Christopher,Francais;5,La Perverie;4,Sophie Parent;11,1988-03-18 16:40:31
+62,Examen 2eme Trimestre;2,Ramos,Miranda,Math;1,La Perverie;4,Théophile-Michel Renault;12,2022-03-27 02:31:08
+63,Examen 2eme Trimestre;2,Wallace,Karen,Anglais;4,Lycée Clemenceau;5Lycée Saint Stanislas;6,Pauline Boulay	;3,1988-08-09 09:51:07
+64,Examen Ier Trimestre;1,Carter,Kimberly,Allemand;3,Notre Dame de toutes Aides;3,Corinne du Gaillard;1,1974-07-15 20:45:43
+65,Examen Ier Trimestre;1,Moody,Kevin,Hist-Géo;2,Notre Dame de toutes Aides;3,Augustin Gauthier-Allard;9,1998-04-05 01:10:40
+66,Examen 2eme Trimestre;2,Carroll,Austin,Anglais;4,Loquidy;1,Thibaut Boulay;6,1985-01-20 09:08:59
+67,Examen 2eme Trimestre;2,Brown,Charles,Anglais;4,Chavagne;2,Corinne du Gaillard;1,2019-09-21 19:17:48
+68,Examen 2eme Trimestre;2,Perry,Kristina,Math;1,La Perverie;4,Augustin Gauthier-Allard;9,1983-06-20 00:37:16
+69,Examen 2eme Trimestre;2,Ward,Marvin,Hist-Géo;2,Lycée Clemenceau;5Lycée Saint Stanislas;6,Thibaut Boulay;6,1992-09-01 20:43:07
+70,Examen 2eme Trimestre;2,Allen,Eric,Math;1,Lycée Clemenceau;5Lycée Saint Stanislas;6,Juliette Renault;13,1981-12-09 04:46:45
+71,Examen 2eme Trimestre;2,Kelly,Lance,Math;1,Lycée Clemenceau;5Lycée Saint Stanislas;6,Théophile-Michel Renault;12,2000-05-25 09:56:00
+72,Examen 2eme Trimestre;2,Young,Ryan,Anglais;4,La Perverie;4,Pauline Boulay	;3,1995-09-24 22:20:33
+73,Examen 2eme Trimestre;2,Merritt,Benjamin,Math;1,La Perverie;4,Corinne du Gaillard;1,2023-05-06 03:34:26
+74,Examen 2eme Trimestre;2,Serrano,Amanda,Allemand;3,Chavagne;2,Théophile-Michel Renault;12,1978-07-18 13:12:29
+75,Examen Ier Trimestre;1,Diaz,Ashley,Hist-Géo;2,Notre Dame de toutes Aides;3,Augustin Gauthier-Allard;9,2015-12-08 11:25:52
+76,Examen 2eme Trimestre;2,Dennis,Christopher,Math;1,Loquidy;1,Eleonore Leroy Le Giraud;14,2005-02-24 11:47:06
+77,Examen Ier Trimestre;1,Stanley,Adam,Anglais;4,La Perverie;4,Eleonore Leroy Le Giraud;14,1993-03-25 07:15:28
+78,Examen Ier Trimestre;1,Ayala,Teresa,Hist-Géo;2,La Perverie;4,Marcel Didier;10,1983-07-14 19:12:45
+79,Examen 2eme Trimestre;2,Wu,Sabrina,Hist-Géo;2,Notre Dame de toutes Aides;3,Eleonore Leroy Le Giraud;14,1970-04-15 03:15:06
+80,Examen Ier Trimestre;1,Webb,Ronald,Anglais;4,Loquidy;1,Juliette Renault;13,1986-05-26 08:24:20
+81,Examen 2eme Trimestre;2,King,Rhonda,Allemand;3,Notre Dame de toutes Aides;3,Pauline Boulay	;3,2014-01-06 15:21:32
+82,Examen 3eme Trimestre;3,Moyer,Samuel,Francais;5,Chavagne;2,Corinne du Gaillard;1,2016-10-08 01:23:13
+83,Examen 2eme Trimestre;2,Davis,Jennifer,Allemand;3,Chavagne;2,Juliette Renault;13,2015-03-15 18:11:38
+84,Examen 2eme Trimestre;2,Arroyo,Jessica,Math;1,Lycée Clemenceau;5Lycée Saint Stanislas;6,Marguerite Michel;8,2013-11-18 11:28:03
+85,Examen Ier Trimestre;1,Morris,Allen,Allemand;3,Notre Dame de toutes Aides;3,Augustin Gauthier-Allard;9,1970-03-11 13:04:31
+86,Examen 2eme Trimestre;2,Mathews,Aaron,Francais;5,Loquidy;1,Sophie Parent;11,1980-02-10 06:43:38
+87,Examen 2eme Trimestre;2,Mills,Ryan,Francais;5,Chavagne;2,Augustin Gauthier-Allard;9,2003-04-05 12:25:47
+88,Examen 3eme Trimestre;3,Stark,David,Hist-Géo;2,La Perverie;4,Eleonore Leroy Le Giraud;14,1998-02-06 23:08:35
+89,Examen 2eme Trimestre;2,Morrison,Kellie,Anglais;4,Chavagne;2,Pauline Boulay	;3,1976-07-09 03:38:14
+90,Examen Ier Trimestre;1,Jones,Sarah,Math;1,La Perverie;4,Sophie Parent;11,2025-02-04 00:19:51
+91,Examen 2eme Trimestre;2,Stanley,Mary,Math;1,Lycée Clemenceau;5Lycée Saint Stanislas;6,Emmanuel Fernandes-Lopez	;	2	,2022-07-24 12:06:29
+92,Examen 2eme Trimestre;2,Liu,Matthew,Allemand;3,Chavagne;2,Augustin Gauthier-Allard;9,1984-08-28 22:47:57
+93,Examen 3eme Trimestre;3,Glenn,Marcus,Math;1,Lycée Clemenceau;5Lycée Saint Stanislas;6,Daniel Bertin-Martin;5,2023-09-28 04:19:22
+94,Examen Ier Trimestre;1,Mata,Stephen,Francais;5,Notre Dame de toutes Aides;3,Jacqueline de Bruneau;7,2003-07-22 17:32:48
+95,Examen 3eme Trimestre;3,Williams,Lisa,Hist-Géo;2,Lycée Clemenceau;5Lycée Saint Stanislas;6,Sophie Parent;11,2012-06-26 10:04:28
+96,Examen 2eme Trimestre;2,Benson,Kelly,Anglais;4,La Perverie;4,Thibaut Boulay;6,2007-07-16 06:35:21
+97,Examen 2eme Trimestre;2,Davis,Susan,Hist-Géo;2,Loquidy;1,Sophie Parent;11,2013-06-06 10:04:27
+98,Examen 2eme Trimestre;2,Carter,Gary,Francais;5,Notre Dame de toutes Aides;3,Jacqueline de Bruneau;7,2013-03-15 23:18:18
+99,Examen 2eme Trimestre;2,Lambert,James,Allemand;3,Notre Dame de toutes Aides;3,Daniel Bertin-Martin;5,2006-09-03 18:50:45
+100,Examen Ier Trimestre;1,Murray,Catherine,Anglais;4,Loquidy;1,Pauline Boulay	;3,2001-12-21 13:36:04
+101,Examen Ier Trimestre;1,Greene,Amy,Francais;5,Lycée Clemenceau;5Lycée Saint Stanislas;6,Juliette Renault;13,1982-10-06 21:58:13
+102,Examen Ier Trimestre;1,Williams,Kristen,Hist-Géo;2,Notre Dame de toutes Aides;3,Marguerite Michel;8,1979-12-04 20:06:26
+103,Examen 2eme Trimestre;2,Alvarez,Ashley,Hist-Géo;2,Loquidy;1,Marcel Didier;10,1981-05-25 16:57:02
+104,Examen 2eme Trimestre;2,Oliver,Stephen,Math;1,Notre Dame de toutes Aides;3,Thibaut Boulay;6,1987-08-08 03:59:25
+105,Examen Ier Trimestre;1,Hernandez,Nicole,Allemand;3,La Perverie;4,Théophile-Michel Renault;12,1996-06-28 13:34:59
+106,Examen 3eme Trimestre;3,Gardner,Ellen,Hist-Géo;2,Notre Dame de toutes Aides;3,Raymond-Philippe Bernard;4,1972-09-07 23:31:43
+107,Examen 2eme Trimestre;2,Elliott,Sandra,Math;1,Loquidy;1,Sophie Parent;11,1994-05-19 00:24:32
+108,Examen 3eme Trimestre;3,Clay,Crystal,Math;1,Chavagne;2,Emmanuel Fernandes-Lopez	;	2	,2022-01-08 12:04:58
+109,Examen Ier Trimestre;1,Goodman,Christopher,Math;1,Lycée Clemenceau;5Lycée Saint Stanislas;6,Raymond-Philippe Bernard;4,2010-05-24 22:51:40
+110,Examen 2eme Trimestre;2,Hill,Veronica,Math;1,Lycée Clemenceau;5Lycée Saint Stanislas;6,Daniel Bertin-Martin;5,2000-01-13 13:48:59
+111,Examen 2eme Trimestre;2,Williamson,Joe,Francais;5,La Perverie;4,Juliette Renault;13,2014-05-29 22:28:34
+112,Examen 3eme Trimestre;3,Duncan,Amanda,Francais;5,Notre Dame de toutes Aides;3,Sophie Parent;11,1982-06-02 05:33:07
+113,Examen Ier Trimestre;1,Trujillo,Evan,Allemand;3,Lycée Clemenceau;5Lycée Saint Stanislas;6,Marguerite Michel;8,2013-05-01 10:03:20
+114,Examen Ier Trimestre;1,Mills,Lisa,Hist-Géo;2,La Perverie;4,Raymond-Philippe Bernard;4,2009-11-20 09:39:59
+115,Examen 3eme Trimestre;3,Edwards,Jason,Allemand;3,Chavagne;2,Juliette Renault;13,1970-05-18 11:40:29
+116,Examen 2eme Trimestre;2,Nelson,Elizabeth,Hist-Géo;2,Loquidy;1,Marguerite Michel;8,1980-10-09 23:13:49
+117,Examen 3eme Trimestre;3,Bauer,Paul,Francais;5,Loquidy;1,Eleonore Leroy Le Giraud;14,2009-05-09 06:50:38
+118,Examen Ier Trimestre;1,Roberson,Cynthia,Anglais;4,Lycée Clemenceau;5Lycée Saint Stanislas;6,Daniel Bertin-Martin;5,2000-08-12 21:25:55
+119,Examen 2eme Trimestre;2,Young,Carla,Hist-Géo;2,Lycée Clemenceau;5Lycée Saint Stanislas;6,Sophie Parent;11,2015-12-12 09:19:59
+120,Examen 2eme Trimestre;2,Doyle,Kathryn,Hist-Géo;2,La Perverie;4,Jacqueline de Bruneau;7,2024-07-17 17:06:18
+121,Examen 2eme Trimestre;2,Clark,Michael,Hist-Géo;2,Notre Dame de toutes Aides;3,Augustin Gauthier-Allard;9,2019-04-10 17:27:26
+122,Examen 2eme Trimestre;2,Hernandez,Amy,Hist-Géo;2,La Perverie;4,Marcel Didier;10,1980-09-06 12:23:42
+123,Examen Ier Trimestre;1,Reyes,Jennifer,Anglais;4,Loquidy;1,Daniel Bertin-Martin;5,1997-05-26 22:34:03
+124,Examen 2eme Trimestre;2,Medina,Melissa,Hist-Géo;2,Chavagne;2,Eleonore Leroy Le Giraud;14,1983-07-17 01:45:02
+125,Examen 3eme Trimestre;3,Anderson,Stephanie,Anglais;4,Lycée Clemenceau;5Lycée Saint Stanislas;6,Théophile-Michel Renault;12,1980-07-12 13:35:51
+126,Examen 2eme Trimestre;2,Donovan,Mary,Math;1,Lycée Clemenceau;5Lycée Saint Stanislas;6,Emmanuel Fernandes-Lopez	;	2	,1994-03-07 07:43:27
+127,Examen 2eme Trimestre;2,Nichols,Tammy,Math;1,Lycée Clemenceau;5Lycée Saint Stanislas;6,Pauline Boulay	;3,2015-12-24 09:44:32
+128,Examen Ier Trimestre;1,Carlson,Bobby,Allemand;3,Chavagne;2,Thibaut Boulay;6,2001-08-09 18:30:28
+129,Examen 3eme Trimestre;3,Kelley,Crystal,Francais;5,Notre Dame de toutes Aides;3,Marcel Didier;10,1996-04-02 19:10:18
+130,Examen Ier Trimestre;1,Glover,Adam,Francais;5,La Perverie;4,Thibaut Boulay;6,2016-05-07 02:16:24
+131,Examen Ier Trimestre;1,Larson,Daniel,Francais;5,Lycée Clemenceau;5Lycée Saint Stanislas;6,Thibaut Boulay;6,1987-06-14 08:35:10
+132,Examen Ier Trimestre;1,Holmes,Denise,Hist-Géo;2,Notre Dame de toutes Aides;3,Augustin Gauthier-Allard;9,2016-09-10 06:11:12
+133,Examen 3eme Trimestre;3,Montoya,Sean,Allemand;3,Loquidy;1,Marcel Didier;10,2018-08-06 01:17:57
+134,Examen 3eme Trimestre;3,Welch,Caleb,Anglais;4,La Perverie;4,Augustin Gauthier-Allard;9,1972-11-13 01:45:43
+135,Examen 2eme Trimestre;2,Matthews,Scott,Hist-Géo;2,Loquidy;1,Thibaut Boulay;6,1995-02-23 19:16:43
+136,Examen Ier Trimestre;1,Adams,Geoffrey,Anglais;4,Lycée Clemenceau;5Lycée Saint Stanislas;6,Juliette Renault;13,2013-05-21 16:00:37
+137,Examen 3eme Trimestre;3,Walsh,Colleen,Math;1,Lycée Clemenceau;5Lycée Saint Stanislas;6,Corinne du Gaillard;1,1987-04-15 09:10:21
+138,Examen 3eme Trimestre;3,Olsen,James,Francais;5,Notre Dame de toutes Aides;3,Raymond-Philippe Bernard;4,2012-01-22 20:40:16
+139,Examen 2eme Trimestre;2,Clark,Raven,Francais;5,Chavagne;2,Emmanuel Fernandes-Lopez	;	2	,1986-07-02 16:07:17
+140,Examen 3eme Trimestre;3,Ryan,Melissa,Allemand;3,Lycée Clemenceau;5Lycée Saint Stanislas;6,Jacqueline de Bruneau;7,2024-08-11 11:04:38
+141,Examen 2eme Trimestre;2,Glass,Kathryn,Math;1,Notre Dame de toutes Aides;3,Pauline Boulay	;3,1980-09-28 07:36:28
+142,Examen 2eme Trimestre;2,Singleton,Mark,Francais;5,La Perverie;4,Juliette Renault;13,2024-12-19 07:32:44
+143,Examen Ier Trimestre;1,Robinson,Bailey,Allemand;3,Loquidy;1,Thibaut Boulay;6,1979-09-13 14:04:15
+144,Examen 2eme Trimestre;2,Leonard,Angel,Francais;5,Chavagne;2,Thibaut Boulay;6,1995-04-07 21:46:15
+145,Examen 3eme Trimestre;3,Bowman,Amber,Allemand;3,La Perverie;4,Jacqueline de Bruneau;7,1986-11-06 13:58:15
+146,Examen 2eme Trimestre;2,Harrison,Karen,Math;1,Loquidy;1,Raymond-Philippe Bernard;4,1973-06-18 10:09:54
+147,Examen 3eme Trimestre;3,Hamilton,Brittany,Anglais;4,Loquidy;1,Eleonore Leroy Le Giraud;14,1998-07-23 16:38:53
+148,Examen Ier Trimestre;1,Marks,Rebecca,Anglais;4,La Perverie;4,Jacqueline de Bruneau;7,2011-11-09 23:54:09
+149,Examen 2eme Trimestre;2,Snow,Laura,Hist-Géo;2,Lycée Clemenceau;5Lycée Saint Stanislas;6,Marcel Didier;10,2023-10-28 11:48:29
+150,Examen Ier Trimestre;1,Lamb,Megan,Allemand;3,La Perverie;4,Marguerite Michel;8,2019-04-25 22:41:14
+151,Examen 2eme Trimestre;2,Maldonado,Rita,Allemand;3,La Perverie;4,Raymond-Philippe Bernard;4,1981-07-02 12:48:26
+152,Examen 2eme Trimestre;2,Anderson,Jennifer,Anglais;4,Chavagne;2,Jacqueline de Bruneau;7,1994-08-23 05:00:55
+153,Examen Ier Trimestre;1,Hurley,Michelle,Math;1,La Perverie;4,Pauline Boulay	;3,2022-09-27 01:40:48
+154,Examen 3eme Trimestre;3,Blair,Thomas,Math;1,La Perverie;4,Raymond-Philippe Bernard;4,2022-12-20 11:41:40
+155,Examen Ier Trimestre;1,Davis,Maria,Math;1,Chavagne;2,Raymond-Philippe Bernard;4,1984-12-26 20:27:26
+156,Examen 2eme Trimestre;2,Wallace,Matthew,Math;1,Loquidy;1,Emmanuel Fernandes-Lopez	;	2	,1991-08-14 01:50:13
+157,Examen 3eme Trimestre;3,Davis,Margaret,Allemand;3,Lycée Clemenceau;5Lycée Saint Stanislas;6,Eleonore Leroy Le Giraud;14,2002-01-15 12:15:46
+158,Examen Ier Trimestre;1,Keller,Sarah,Allemand;3,Loquidy;1,Marguerite Michel;8,2011-12-07 03:38:55
+159,Examen 2eme Trimestre;2,Miller,Kelly,Francais;5,Loquidy;1,Daniel Bertin-Martin;5,2004-09-30 21:17:18
+160,Examen 3eme Trimestre;3,Ray,Sean,Hist-Géo;2,La Perverie;4,Daniel Bertin-Martin;5,2016-03-08 02:34:56
+161,Examen 2eme Trimestre;2,Rodriguez,Leon,Allemand;3,Chavagne;2,Eleonore Leroy Le Giraud;14,2023-12-05 10:37:39
+162,Examen Ier Trimestre;1,Larson,Thomas,Allemand;3,Loquidy;1,Pauline Boulay	;3,1982-06-28 17:23:41
+163,Examen 2eme Trimestre;2,Blackwell,David,Hist-Géo;2,La Perverie;4,Jacqueline de Bruneau;7,1994-03-29 21:47:16
+164,Examen 3eme Trimestre;3,Baker,Ann,Math;1,Loquidy;1,Raymond-Philippe Bernard;4,1973-03-03 21:20:31
+165,Examen 2eme Trimestre;2,Ellis,Joyce,Math;1,Notre Dame de toutes Aides;3,Jacqueline de Bruneau;7,2012-05-16 21:11:15
+166,Examen 2eme Trimestre;2,Jones,Karen,Hist-Géo;2,Loquidy;1,Augustin Gauthier-Allard;9,2023-06-16 16:55:19
+167,Examen Ier Trimestre;1,Bryan,Maria,Allemand;3,Chavagne;2,Augustin Gauthier-Allard;9,2019-12-27 04:26:57
+168,Examen Ier Trimestre;1,Alvarado,Jose,Francais;5,Lycée Clemenceau;5Lycée Saint Stanislas;6,Daniel Bertin-Martin;5,1991-11-18 14:04:34
+169,Examen 2eme Trimestre;2,Myers,Joanna,Francais;5,Lycée Clemenceau;5Lycée Saint Stanislas;6,Augustin Gauthier-Allard;9,1990-10-19 12:08:15
+170,Examen Ier Trimestre;1,Ramsey,Daniel,Hist-Géo;2,La Perverie;4,Marguerite Michel;8,1987-03-18 16:38:52
+171,Examen 2eme Trimestre;2,Stokes,Donna,Math;1,Loquidy;1,Corinne du Gaillard;1,2023-03-24 01:16:04
+172,Examen 2eme Trimestre;2,Woods,Scott,Math;1,Lycée Clemenceau;5Lycée Saint Stanislas;6,Sophie Parent;11,1980-12-09 16:08:54
+173,Examen Ier Trimestre;1,Estrada,Cynthia,Math;1,Chavagne;2,Marcel Didier;10,1987-06-17 01:24:01
+174,Examen Ier Trimestre;1,Graves,Barbara,Math;1,La Perverie;4,Emmanuel Fernandes-Lopez	;	2	,1983-07-18 09:01:02
+175,Examen 3eme Trimestre;3,Nelson,Nicole,Hist-Géo;2,La Perverie;4,Thibaut Boulay;6,1999-12-16 16:50:21
+176,Examen 3eme Trimestre;3,Warner,Julie,Francais;5,La Perverie;4,Eleonore Leroy Le Giraud;14,1998-10-13 11:04:13
+177,Examen Ier Trimestre;1,Martinez,Scott,Math;1,Notre Dame de toutes Aides;3,Théophile-Michel Renault;12,2004-08-30 21:20:16
+178,Examen Ier Trimestre;1,Donaldson,Rachel,Hist-Géo;2,Lycée Clemenceau;5Lycée Saint Stanislas;6,Augustin Gauthier-Allard;9,2004-11-08 07:31:00
+179,Examen 2eme Trimestre;2,Evans,Leslie,Hist-Géo;2,Lycée Clemenceau;5Lycée Saint Stanislas;6,Pauline Boulay	;3,2008-05-06 11:26:42
+180,Examen 2eme Trimestre;2,Graham,Amy,Allemand;3,Loquidy;1,Corinne du Gaillard;1,1984-10-09 21:16:56
+181,Examen 2eme Trimestre;2,Mccoy,Kaitlyn,Math;1,Lycée Clemenceau;5Lycée Saint Stanislas;6,Eleonore Leroy Le Giraud;14,1998-03-05 01:08:24
+182,Examen 2eme Trimestre;2,Clark,Katherine,Anglais;4,Lycée Clemenceau;5Lycée Saint Stanislas;6,Augustin Gauthier-Allard;9,1998-04-12 05:02:13
+183,Examen 2eme Trimestre;2,Smith,Michele,Allemand;3,Lycée Clemenceau;5Lycée Saint Stanislas;6,Emmanuel Fernandes-Lopez	;	2	,1971-10-04 21:47:41
+184,Examen 3eme Trimestre;3,White,Kyle,Francais;5,Lycée Clemenceau;5Lycée Saint Stanislas;6,Pauline Boulay	;3,1973-07-26 21:40:06
+185,Examen 3eme Trimestre;3,Gomez,Eric,Hist-Géo;2,Loquidy;1,Marguerite Michel;8,1985-09-10 12:08:44
+186,Examen Ier Trimestre;1,Steele,Benjamin,Hist-Géo;2,Chavagne;2,Jacqueline de Bruneau;7,2017-09-22 08:40:59
+187,Examen Ier Trimestre;1,Davidson,Monique,Anglais;4,La Perverie;4,Daniel Bertin-Martin;5,1975-08-31 04:15:53
+188,Examen 3eme Trimestre;3,Miller,Adam,Francais;5,Notre Dame de toutes Aides;3,Corinne du Gaillard;1,2008-09-29 16:55:18
+189,Examen 3eme Trimestre;3,Sharp,Stephanie,Math;1,La Perverie;4,Marcel Didier;10,1986-12-23 04:02:33
+190,Examen 3eme Trimestre;3,Strickland,Amanda,Allemand;3,Loquidy;1,Raymond-Philippe Bernard;4,1970-05-09 06:41:56
+191,Examen 3eme Trimestre;3,Brown,Marcus,Allemand;3,Notre Dame de toutes Aides;3,Pauline Boulay	;3,2020-08-28 14:04:49
+192,Examen 2eme Trimestre;2,Johnson,Bridget,Allemand;3,La Perverie;4,Pauline Boulay	;3,2009-05-28 21:32:31
+193,Examen Ier Trimestre;1,Jones,Rachel,Math;1,Loquidy;1,Emmanuel Fernandes-Lopez	;	2	,1975-05-28 15:11:49
+194,Examen 3eme Trimestre;3,Hill,Amy,Francais;5,Lycée Clemenceau;5Lycée Saint Stanislas;6,Augustin Gauthier-Allard;9,1999-11-14 05:26:17
+195,Examen Ier Trimestre;1,Hunt,Elizabeth,Francais;5,La Perverie;4,Marguerite Michel;8,2020-06-27 23:20:59
+196,Examen Ier Trimestre;1,Frank,Shawn,Math;1,Notre Dame de toutes Aides;3,Daniel Bertin-Martin;5,2024-01-06 18:06:45
+197,Examen Ier Trimestre;1,Beard,Kimberly,Francais;5,Chavagne;2,Marguerite Michel;8,1990-06-02 05:59:03
+198,Examen Ier Trimestre;1,Turner,Crystal,Hist-Géo;2,Loquidy;1,Théophile-Michel Renault;12,2014-07-10 12:50:32
+199,Examen 2eme Trimestre;2,Tran,Jeremy,Francais;5,Notre Dame de toutes Aides;3,Eleonore Leroy Le Giraud;14,1981-07-09 02:01:36
+200,Examen 3eme Trimestre;3,Edwards,Robert,Math;1,Chavagne;2,Marguerite Michel;8,2003-03-17 09:09:53
+201,Examen 2eme Trimestre;2,Russell,John,Allemand;3,Notre Dame de toutes Aides;3,Juliette Renault;13,2013-06-14 10:04:35
+202,Examen Ier Trimestre;1,Rogers,Francis,Hist-Géo;2,Notre Dame de toutes Aides;3,Emmanuel Fernandes-Lopez	;	2	,1990-08-31 05:13:37
+203,Examen 2eme Trimestre;2,Gillespie,Daniel,Anglais;4,Loquidy;1,Marguerite Michel;8,1996-09-13 21:53:58
+204,Examen 3eme Trimestre;3,Thompson,Katherine,Anglais;4,Loquidy;1,Daniel Bertin-Martin;5,1981-06-09 18:46:00
+205,Examen Ier Trimestre;1,Mendoza,Lisa,Math;1,Notre Dame de toutes Aides;3,Pauline Boulay	;3,1974-12-31 22:54:25
+206,Examen 3eme Trimestre;3,Berry,Margaret,Math;1,Lycée Clemenceau;5Lycée Saint Stanislas;6,Daniel Bertin-Martin;5,2007-08-12 05:26:33
+207,Examen 2eme Trimestre;2,Marsh,Robert,Allemand;3,Chavagne;2,Corinne du Gaillard;1,1992-05-16 15:01:04
+208,Examen 2eme Trimestre;2,Hamilton,Cheryl,Francais;5,Notre Dame de toutes Aides;3,Daniel Bertin-Martin;5,2024-11-06 00:11:22
+209,Examen 3eme Trimestre;3,Howard,Julia,Allemand;3,La Perverie;4,Raymond-Philippe Bernard;4,1984-09-25 03:38:19
+210,Examen Ier Trimestre;1,Carr,Gregory,Francais;5,Chavagne;2,Augustin Gauthier-Allard;9,1991-03-18 06:07:15
+211,Examen 2eme Trimestre;2,Wiggins,Maria,Francais;5,Chavagne;2,Corinne du Gaillard;1,2022-11-19 01:06:10
+212,Examen 2eme Trimestre;2,Walters,Kaitlyn,Anglais;4,Chavagne;2,Thibaut Boulay;6,2016-01-23 15:58:16
+213,Examen 3eme Trimestre;3,White,Jennifer,Math;1,Loquidy;1,Sophie Parent;11,2005-09-08 22:25:19
+214,Examen Ier Trimestre;1,Odonnell,Jennifer,Hist-Géo;2,Notre Dame de toutes Aides;3,Pauline Boulay	;3,2018-08-29 20:05:56
+215,Examen 3eme Trimestre;3,Schmidt,Sarah,Anglais;4,Lycée Clemenceau;5Lycée Saint Stanislas;6,Pauline Boulay	;3,2013-03-01 02:06:56
+216,Examen 3eme Trimestre;3,Conley,William,Allemand;3,Lycée Clemenceau;5Lycée Saint Stanislas;6,Sophie Parent;11,1973-05-25 13:38:07
+217,Examen 2eme Trimestre;2,Hicks,Logan,Anglais;4,Notre Dame de toutes Aides;3,Marcel Didier;10,2008-01-21 10:18:27
+218,Examen Ier Trimestre;1,Turner,Morgan,Math;1,Chavagne;2,Pauline Boulay	;3,2012-01-18 17:39:21
+219,Examen 3eme Trimestre;3,Washington,Christopher,Hist-Géo;2,Loquidy;1,Eleonore Leroy Le Giraud;14,1998-08-22 11:03:56
+220,Examen 3eme Trimestre;3,Stokes,Mark,Math;1,Chavagne;2,Thibaut Boulay;6,1999-07-11 00:50:54
+221,Examen 3eme Trimestre;3,Goodman,Sally,Anglais;4,Lycée Clemenceau;5Lycée Saint Stanislas;6,Daniel Bertin-Martin;5,1979-01-29 16:41:25
+222,Examen Ier Trimestre;1,Chandler,Shaun,Anglais;4,Loquidy;1,Eleonore Leroy Le Giraud;14,1974-06-15 03:44:37
+223,Examen 2eme Trimestre;2,Wheeler,Ralph,Math;1,Chavagne;2,Pauline Boulay	;3,1990-09-15 05:54:17
+224,Examen 3eme Trimestre;3,Arnold,Shannon,Anglais;4,Lycée Clemenceau;5Lycée Saint Stanislas;6,Corinne du Gaillard;1,1970-03-20 20:20:29
+225,Examen 2eme Trimestre;2,Cole,Christian,Allemand;3,Lycée Clemenceau;5Lycée Saint Stanislas;6,Théophile-Michel Renault;12,1998-02-18 10:45:29
+226,Examen Ier Trimestre;1,Davis,Shawn,Hist-Géo;2,Notre Dame de toutes Aides;3,Marguerite Michel;8,2002-06-24 09:27:54
+227,Examen 2eme Trimestre;2,Johnson,Jose,Allemand;3,La Perverie;4,Daniel Bertin-Martin;5,1987-08-09 23:03:37
+228,Examen Ier Trimestre;1,Jackson,Janice,Francais;5,Notre Dame de toutes Aides;3,Emmanuel Fernandes-Lopez	;	2	,1991-04-23 16:48:03
+229,Examen 3eme Trimestre;3,Allen,Michele,Hist-Géo;2,Loquidy;1,Corinne du Gaillard;1,2003-01-19 16:08:54
+230,Examen Ier Trimestre;1,Brown,Sarah,Francais;5,Loquidy;1,Thibaut Boulay;6,1992-04-02 01:41:37
+231,Examen 2eme Trimestre;2,Young,Heather,Francais;5,La Perverie;4,Marcel Didier;10,1993-10-31 02:46:40
+232,Examen Ier Trimestre;1,Lawrence,Nathan,Allemand;3,Loquidy;1,Juliette Renault;13,1999-02-16 15:08:33
+233,Examen 2eme Trimestre;2,Dennis,Amanda,Allemand;3,Notre Dame de toutes Aides;3,Juliette Renault;13,1971-06-03 23:49:24
+234,Examen 2eme Trimestre;2,Stanley,Shawn,Math;1,Chavagne;2,Juliette Renault;13,1988-09-18 12:59:39
+235,Examen 2eme Trimestre;2,Stewart,April,Math;1,Notre Dame de toutes Aides;3,Emmanuel Fernandes-Lopez	;	2	,1981-09-01 14:11:55
+236,Examen 3eme Trimestre;3,Rogers,James,Hist-Géo;2,Chavagne;2,Emmanuel Fernandes-Lopez	;	2	,2023-07-18 20:49:00
+237,Examen 2eme Trimestre;2,Mcdonald,Robert,Math;1,Chavagne;2,Thibaut Boulay;6,1973-04-13 17:15:52
+238,Examen 3eme Trimestre;3,Cook,Kim,Francais;5,Lycée Clemenceau;5Lycée Saint Stanislas;6,Augustin Gauthier-Allard;9,1972-01-16 08:38:17
+239,Examen 2eme Trimestre;2,Murray,Heather,Math;1,Chavagne;2,Jacqueline de Bruneau;7,1980-04-28 16:50:17
+240,Examen 2eme Trimestre;2,Wood,Joshua,Francais;5,Chavagne;2,Marcel Didier;10,1988-03-25 18:23:00
+241,Examen 2eme Trimestre;2,White,Toni,Math;1,Lycée Clemenceau;5Lycée Saint Stanislas;6,Emmanuel Fernandes-Lopez	;	2	,2014-03-06 21:49:19
+242,Examen Ier Trimestre;1,Brown,Emily,Francais;5,Chavagne;2,Théophile-Michel Renault;12,2019-12-11 08:48:10
+243,Examen Ier Trimestre;1,James,Helen,Francais;5,La Perverie;4,Marcel Didier;10,1991-09-20 01:52:40
+244,Examen Ier Trimestre;1,Parker,Courtney,Anglais;4,Loquidy;1,Eleonore Leroy Le Giraud;14,2013-12-15 06:22:25
+245,Examen 2eme Trimestre;2,Alvarez,Jennifer,Allemand;3,Loquidy;1,Pauline Boulay	;3,2022-04-06 16:54:13
+246,Examen 3eme Trimestre;3,Joseph,Brian,Allemand;3,Loquidy;1,Juliette Renault;13,2007-04-23 20:15:03
+247,Examen Ier Trimestre;1,Evans,Katherine,Allemand;3,Lycée Clemenceau;5Lycée Saint Stanislas;6,Corinne du Gaillard;1,1996-10-10 23:39:54
+248,Examen Ier Trimestre;1,Wilkins,Lance,Francais;5,Loquidy;1,Pauline Boulay	;3,1978-03-03 17:08:30
+249,Examen 3eme Trimestre;3,Sellers,Judith,Allemand;3,Notre Dame de toutes Aides;3,Théophile-Michel Renault;12,2003-11-23 01:02:49
+250,Examen Ier Trimestre;1,Kidd,William,Anglais;4,Loquidy;1,Juliette Renault;13,1993-02-22 13:30:52
+251,Examen 3eme Trimestre;3,Baker,Lacey,Francais;5,Loquidy;1,Thibaut Boulay;6,2013-12-17 06:23:53
+252,Examen Ier Trimestre;1,Rogers,Stephanie,Anglais;4,Lycée Clemenceau;5Lycée Saint Stanislas;6,Juliette Renault;13,1989-12-16 00:15:19
+253,Examen Ier Trimestre;1,Conner,Denise,Anglais;4,Chavagne;2,Théophile-Michel Renault;12,1993-01-10 11:26:57
+254,Examen 2eme Trimestre;2,Mcgee,Raymond,Anglais;4,La Perverie;4,Marguerite Michel;8,1978-11-26 10:49:17
+255,Examen Ier Trimestre;1,Moran,David,Math;1,Notre Dame de toutes Aides;3,Thibaut Boulay;6,1974-11-08 19:17:54
+256,Examen 3eme Trimestre;3,Jefferson,Christopher,Hist-Géo;2,Lycée Clemenceau;5Lycée Saint Stanislas;6,Sophie Parent;11,2019-04-18 22:30:01
+257,Examen Ier Trimestre;1,Novak,Nicole,Anglais;4,La Perverie;4,Thibaut Boulay;6,1979-12-28 09:31:37
+258,Examen 3eme Trimestre;3,Erickson,Sharon,Francais;5,Notre Dame de toutes Aides;3,Augustin Gauthier-Allard;9,1989-05-29 21:31:57
+259,Examen 2eme Trimestre;2,Johnson,Christine,Hist-Géo;2,La Perverie;4,Daniel Bertin-Martin;5,2007-07-29 20:16:03
+260,Examen Ier Trimestre;1,Navarro,Susan,Anglais;4,La Perverie;4,Augustin Gauthier-Allard;9,1995-08-21 16:45:18
+261,Examen 3eme Trimestre;3,Morrow,Amanda,Hist-Géo;2,Chavagne;2,Théophile-Michel Renault;12,1975-06-30 19:08:59
+262,Examen 2eme Trimestre;2,Holt,Sarah,Allemand;3,Notre Dame de toutes Aides;3,Corinne du Gaillard;1,1984-05-03 15:04:35
+263,Examen 3eme Trimestre;3,Kim,Shawn,Allemand;3,Lycée Clemenceau;5Lycée Saint Stanislas;6,Eleonore Leroy Le Giraud;14,2011-01-14 13:41:51
+264,Examen 3eme Trimestre;3,Jones,Jacqueline,Allemand;3,Chavagne;2,Pauline Boulay	;3,2008-01-27 06:44:12
+265,Examen 2eme Trimestre;2,Cooper,Megan,Anglais;4,Chavagne;2,Corinne du Gaillard;1,2006-10-31 09:49:41
+266,Examen Ier Trimestre;1,Garner,Erin,Francais;5,Chavagne;2,Emmanuel Fernandes-Lopez	;	2	,1989-04-05 01:44:40
+267,Examen 3eme Trimestre;3,Miller,Sharon,Allemand;3,Notre Dame de toutes Aides;3,Juliette Renault;13,2008-08-18 11:40:11
+268,Examen Ier Trimestre;1,Carter,Sara,Anglais;4,Chavagne;2,Marcel Didier;10,1990-05-29 21:03:51
+269,Examen 3eme Trimestre;3,Hines,Mario,Hist-Géo;2,Lycée Clemenceau;5Lycée Saint Stanislas;6,Emmanuel Fernandes-Lopez	;	2	,2019-12-15 15:25:42
+270,Examen Ier Trimestre;1,Webster,Emily,Allemand;3,Notre Dame de toutes Aides;3,Juliette Renault;13,2020-05-09 17:04:39
+271,Examen 3eme Trimestre;3,Patrick,Robert,Math;1,Loquidy;1,Juliette Renault;13,1992-03-15 21:09:49
+272,Examen Ier Trimestre;1,Schwartz,Carrie,Math;1,La Perverie;4,Juliette Renault;13,1994-05-25 04:49:12
+273,Examen 3eme Trimestre;3,Myers,Erik,Math;1,Lycée Clemenceau;5Lycée Saint Stanislas;6,Eleonore Leroy Le Giraud;14,2023-06-09 12:00:11
+274,Examen 2eme Trimestre;2,Williams,Julie,Francais;5,Loquidy;1,Augustin Gauthier-Allard;9,1980-02-28 10:12:22
+275,Examen 2eme Trimestre;2,Miller,Nathan,Allemand;3,Lycée Clemenceau;5Lycée Saint Stanislas;6,Thibaut Boulay;6,1994-03-06 05:07:15
+276,Examen 3eme Trimestre;3,Murphy,Daniel,Allemand;3,La Perverie;4,Augustin Gauthier-Allard;9,1993-02-11 15:59:16
+277,Examen Ier Trimestre;1,Thompson,Timothy,Hist-Géo;2,Loquidy;1,Daniel Bertin-Martin;5,2013-11-16 02:31:22
+278,Examen Ier Trimestre;1,Santos,David,Anglais;4,Lycée Clemenceau;5Lycée Saint Stanislas;6,Théophile-Michel Renault;12,1984-12-11 22:06:00
+279,Examen 3eme Trimestre;3,Mccullough,Kenneth,Math;1,Lycée Clemenceau;5Lycée Saint Stanislas;6,Marcel Didier;10,2005-11-06 21:58:05
+280,Examen Ier Trimestre;1,Orozco,Joseph,Anglais;4,Loquidy;1,Daniel Bertin-Martin;5,1976-07-08 15:28:35
+281,Examen 3eme Trimestre;3,Kennedy,Michaela,Math;1,Lycée Clemenceau;5Lycée Saint Stanislas;6,Juliette Renault;13,1998-05-27 01:52:50
+282,Examen 2eme Trimestre;2,Griffith,Darlene,Hist-Géo;2,La Perverie;4,Raymond-Philippe Bernard;4,1997-03-21 13:29:25
+283,Examen 3eme Trimestre;3,Lee,Lisa,Math;1,Chavagne;2,Jacqueline de Bruneau;7,2000-04-13 06:58:40
+284,Examen 2eme Trimestre;2,Thompson,Brittany,Anglais;4,La Perverie;4,Corinne du Gaillard;1,2013-07-31 08:08:03
+285,Examen 2eme Trimestre;2,Kramer,Kevin,Allemand;3,Chavagne;2,Pauline Boulay	;3,2025-04-12 20:42:46
+286,Examen 3eme Trimestre;3,Phillips,Jennifer,Allemand;3,Loquidy;1,Raymond-Philippe Bernard;4,1982-05-04 13:57:03
+287,Examen 3eme Trimestre;3,Bender,Charles,Allemand;3,La Perverie;4,Théophile-Michel Renault;12,1992-01-07 01:15:32
+288,Examen 2eme Trimestre;2,Morales,Kim,Francais;5,Loquidy;1,Pauline Boulay	;3,1986-06-18 20:52:44
+289,Examen 2eme Trimestre;2,Guzman,Kenneth,Anglais;4,La Perverie;4,Emmanuel Fernandes-Lopez	;	2	,2017-08-12 11:55:43
+290,Examen 3eme Trimestre;3,Graham,Jeffrey,Allemand;3,Chavagne;2,Emmanuel Fernandes-Lopez	;	2	,1972-09-06 12:40:10
+291,Examen 3eme Trimestre;3,Willis,Jeremy,Francais;5,Loquidy;1,Pauline Boulay	;3,1989-08-22 18:49:22
+292,Examen Ier Trimestre;1,Chambers,Laura,Hist-Géo;2,Lycée Clemenceau;5Lycée Saint Stanislas;6,Théophile-Michel Renault;12,1993-05-05 05:46:50
+293,Examen 3eme Trimestre;3,Bailey,Robert,Francais;5,Notre Dame de toutes Aides;3,Corinne du Gaillard;1,1979-10-24 18:46:22
+294,Examen 3eme Trimestre;3,Moreno,Karen,Allemand;3,Loquidy;1,Juliette Renault;13,1996-08-20 07:59:38
+295,Examen Ier Trimestre;1,Shaw,Robin,Math;1,Chavagne;2,Eleonore Leroy Le Giraud;14,1983-02-18 11:35:00
+296,Examen 3eme Trimestre;3,Weaver,Melinda,Francais;5,La Perverie;4,Augustin Gauthier-Allard;9,2003-02-05 22:38:12
+297,Examen 2eme Trimestre;2,Phillips,Nathan,Hist-Géo;2,Chavagne;2,Sophie Parent;11,2016-06-10 23:25:04
+298,Examen 3eme Trimestre;3,Ray,Sara,Math;1,Lycée Clemenceau;5Lycée Saint Stanislas;6,Pauline Boulay	;3,1976-05-25 19:36:46
+299,Examen Ier Trimestre;1,Smith,Peter,Math;1,Notre Dame de toutes Aides;3,Juliette Renault;13,1994-02-13 17:35:13
+300,Examen 2eme Trimestre;2,Wilson,Mark,Allemand;3,Loquidy;1,Emmanuel Fernandes-Lopez	;	2	,2010-10-12 04:36:22
+301,Examen 2eme Trimestre;2,Sandoval,Matthew,Anglais;4,Lycée Clemenceau;5Lycée Saint Stanislas;6,Emmanuel Fernandes-Lopez	;	2	,2014-05-09 19:35:48
+302,Examen Ier Trimestre;1,Ward,Justin,Math;1,Loquidy;1,Marguerite Michel;8,1992-09-14 10:42:52
+303,Examen 3eme Trimestre;3,Bennett,Robert,Hist-Géo;2,Loquidy;1,Marcel Didier;10,1978-06-12 14:52:05
+304,Examen Ier Trimestre;1,Leblanc,Jeremy,Francais;5,Loquidy;1,Raymond-Philippe Bernard;4,2014-11-27 05:03:57
+305,Examen Ier Trimestre;1,Miller,Cory,Francais;5,Notre Dame de toutes Aides;3,Emmanuel Fernandes-Lopez	;	2	,1989-04-20 20:51:04
+306,Examen Ier Trimestre;1,Dorsey,Jeffrey,Math;1,Lycée Clemenceau;5Lycée Saint Stanislas;6,Marcel Didier;10,1975-08-26 04:41:12
+307,Examen 2eme Trimestre;2,Roman,Tiffany,Allemand;3,Notre Dame de toutes Aides;3,Daniel Bertin-Martin;5,1995-02-26 20:46:21
+308,Examen 2eme Trimestre;2,Walsh,Christopher,Anglais;4,Lycée Clemenceau;5Lycée Saint Stanislas;6,Pauline Boulay	;3,1992-08-11 19:20:38
+309,Examen 3eme Trimestre;3,Hughes,Travis,Math;1,Lycée Clemenceau;5Lycée Saint Stanislas;6,Augustin Gauthier-Allard;9,1971-07-15 19:11:02
+310,Examen 2eme Trimestre;2,Smith,Wesley,Math;1,Lycée Clemenceau;5Lycée Saint Stanislas;6,Augustin Gauthier-Allard;9,1971-05-10 08:34:49
+311,Examen 3eme Trimestre;3,Proctor,Sara,Math;1,Chavagne;2,Juliette Renault;13,2004-10-13 04:21:49
+312,Examen 2eme Trimestre;2,Harper,Kelly,Hist-Géo;2,La Perverie;4,Corinne du Gaillard;1,2002-02-18 16:39:09
+313,Examen 3eme Trimestre;3,Carter,Shelley,Hist-Géo;2,Loquidy;1,Juliette Renault;13,2014-08-28 20:36:45
+314,Examen Ier Trimestre;1,Smith,Susan,Allemand;3,Notre Dame de toutes Aides;3,Raymond-Philippe Bernard;4,2018-02-01 06:56:12
+315,Examen 2eme Trimestre;2,Allen,Timothy,Anglais;4,Loquidy;1,Pauline Boulay	;3,1970-03-03 09:34:19
+316,Examen Ier Trimestre;1,Rodriguez,Kristine,Math;1,Chavagne;2,Pauline Boulay	;3,1996-01-12 09:53:30
+317,Examen 2eme Trimestre;2,Morrison,Maria,Francais;5,Lycée Clemenceau;5Lycée Saint Stanislas;6,Thibaut Boulay;6,1982-04-21 11:09:25
+318,Examen 2eme Trimestre;2,Haney,Kevin,Francais;5,Notre Dame de toutes Aides;3,Augustin Gauthier-Allard;9,1988-01-04 14:35:18
+319,Examen 3eme Trimestre;3,Wright,Carol,Francais;5,Loquidy;1,Thibaut Boulay;6,2007-09-06 06:47:46
+320,Examen 2eme Trimestre;2,Johnson,Dawn,Math;1,Lycée Clemenceau;5Lycée Saint Stanislas;6,Daniel Bertin-Martin;5,1999-02-14 20:21:35
+321,Examen Ier Trimestre;1,Carr,Amanda,Allemand;3,Lycée Clemenceau;5Lycée Saint Stanislas;6,Raymond-Philippe Bernard;4,1975-07-16 00:39:52
+322,Examen Ier Trimestre;1,Allen,Christopher,Francais;5,Notre Dame de toutes Aides;3,Marcel Didier;10,2023-06-15 18:39:37
+323,Examen Ier Trimestre;1,Medina,Ralph,Francais;5,Chavagne;2,Thibaut Boulay;6,1983-11-10 17:08:51
+324,Examen 3eme Trimestre;3,Harper,Brian,Francais;5,Loquidy;1,Marcel Didier;10,2002-02-07 16:51:30
+325,Examen 3eme Trimestre;3,Herrera,Steven,Allemand;3,Loquidy;1,Eleonore Leroy Le Giraud;14,1980-04-30 04:14:34
+326,Examen Ier Trimestre;1,Ball,Alexandra,Allemand;3,Lycée Clemenceau;5Lycée Saint Stanislas;6,Théophile-Michel Renault;12,1978-04-12 12:18:00
+327,Examen 3eme Trimestre;3,Everett,Daniel,Francais;5,Chavagne;2,Jacqueline de Bruneau;7,1988-01-26 22:17:12
+328,Examen Ier Trimestre;1,Travis,Dillon,Math;1,Loquidy;1,Augustin Gauthier-Allard;9,2002-04-01 23:00:03
+329,Examen 2eme Trimestre;2,Schwartz,Bonnie,Math;1,Notre Dame de toutes Aides;3,Pauline Boulay	;3,2013-07-24 17:04:49
+330,Examen 2eme Trimestre;2,Mitchell,Brittney,Anglais;4,La Perverie;4,Augustin Gauthier-Allard;9,1989-01-22 03:35:50
+331,Examen 2eme Trimestre;2,Dudley,Laura,Francais;5,Chavagne;2,Corinne du Gaillard;1,2012-03-10 11:54:05
+332,Examen 3eme Trimestre;3,White,Louis,Allemand;3,La Perverie;4,Jacqueline de Bruneau;7,1989-08-25 11:49:11
+333,Examen Ier Trimestre;1,Hull,Dale,Anglais;4,Lycée Clemenceau;5Lycée Saint Stanislas;6,Daniel Bertin-Martin;5,1983-04-28 03:55:31
+334,Examen 2eme Trimestre;2,Castillo,Joel,Anglais;4,Loquidy;1,Emmanuel Fernandes-Lopez	;	2	,2008-01-11 23:15:04
+335,Examen Ier Trimestre;1,Welch,Gary,Francais;5,Loquidy;1,Juliette Renault;13,2007-02-18 01:28:32
+336,Examen 2eme Trimestre;2,Mcbride,Colin,Allemand;3,Chavagne;2,Juliette Renault;13,1972-03-27 01:32:03
+337,Examen Ier Trimestre;1,Hunt,Mitchell,Anglais;4,Notre Dame de toutes Aides;3,Emmanuel Fernandes-Lopez	;	2	,1973-03-07 15:37:41
+338,Examen 3eme Trimestre;3,Smith,Christopher,Math;1,Lycée Clemenceau;5Lycée Saint Stanislas;6,Eleonore Leroy Le Giraud;14,2024-09-05 10:41:14
+339,Examen 3eme Trimestre;3,Miller,Rebecca,Francais;5,Loquidy;1,Sophie Parent;11,1993-07-23 07:04:02
+340,Examen 2eme Trimestre;2,Madden,Anthony,Allemand;3,Loquidy;1,Augustin Gauthier-Allard;9,2009-03-10 03:28:55
+341,Examen Ier Trimestre;1,Love,Brooke,Francais;5,Lycée Clemenceau;5Lycée Saint Stanislas;6,Eleonore Leroy Le Giraud;14,2024-12-10 15:14:06
+342,Examen Ier Trimestre;1,Fields,Daniel,Math;1,Notre Dame de toutes Aides;3,Augustin Gauthier-Allard;9,1972-12-26 21:41:50
+343,Examen Ier Trimestre;1,Cisneros,Marc,Anglais;4,Notre Dame de toutes Aides;3,Eleonore Leroy Le Giraud;14,2002-09-26 03:19:34
+344,Examen 2eme Trimestre;2,Marshall,Edgar,Hist-Géo;2,Lycée Clemenceau;5Lycée Saint Stanislas;6,Marguerite Michel;8,2018-02-08 03:25:07
+345,Examen Ier Trimestre;1,Medina,Jessica,Anglais;4,Notre Dame de toutes Aides;3,Corinne du Gaillard;1,1984-09-24 03:01:14
+346,Examen Ier Trimestre;1,Snyder,Ronald,Francais;5,Loquidy;1,Corinne du Gaillard;1,2013-02-06 18:24:20
+347,Examen 3eme Trimestre;3,Robbins,Robert,Allemand;3,Notre Dame de toutes Aides;3,Marcel Didier;10,2015-06-18 15:26:00
+348,Examen Ier Trimestre;1,Lee,Darius,Anglais;4,La Perverie;4,Sophie Parent;11,1983-01-29 13:51:48
+349,Examen 2eme Trimestre;2,Stafford,Heather,Francais;5,Lycée Clemenceau;5Lycée Saint Stanislas;6,Thibaut Boulay;6,1970-04-30 10:17:59
+350,Examen Ier Trimestre;1,Lopez,James,Anglais;4,La Perverie;4,Théophile-Michel Renault;12,1987-10-12 20:27:53
+351,Examen Ier Trimestre;1,Allen,Aaron,Anglais;4,Chavagne;2,Théophile-Michel Renault;12,2011-03-05 12:34:16
+352,Examen 3eme Trimestre;3,Clay,Betty,Anglais;4,Chavagne;2,Augustin Gauthier-Allard;9,2011-10-08 13:13:21
+353,Examen 2eme Trimestre;2,Howell,Matthew,Francais;5,Chavagne;2,Sophie Parent;11,1981-06-20 00:50:57
+354,Examen 3eme Trimestre;3,Moore,Andrew,Allemand;3,Chavagne;2,Thibaut Boulay;6,2015-02-20 18:20:28
+355,Examen 3eme Trimestre;3,Adkins,Alexandria,Math;1,Notre Dame de toutes Aides;3,Jacqueline de Bruneau;7,1991-12-20 20:11:19
+356,Examen 2eme Trimestre;2,Hamilton,Sheila,Anglais;4,Lycée Clemenceau;5Lycée Saint Stanislas;6,Pauline Boulay	;3,1984-05-14 04:32:17
+357,Examen 3eme Trimestre;3,Montgomery,Steven,Allemand;3,La Perverie;4,Corinne du Gaillard;1,2019-09-02 07:20:40
+358,Examen Ier Trimestre;1,Figueroa,Paul,Math;1,La Perverie;4,Raymond-Philippe Bernard;4,2019-09-17 07:45:57
+359,Examen 2eme Trimestre;2,Barrett,Loretta,Francais;5,Loquidy;1,Juliette Renault;13,2000-08-16 12:12:48
+360,Examen Ier Trimestre;1,Anderson,Wendy,Hist-Géo;2,Chavagne;2,Emmanuel Fernandes-Lopez	;	2	,2024-03-10 05:21:20
+361,Examen Ier Trimestre;1,Martin,James,Hist-Géo;2,Lycée Clemenceau;5Lycée Saint Stanislas;6,Juliette Renault;13,1989-11-27 00:31:15
+362,Examen 2eme Trimestre;2,Clark,Jessica,Francais;5,Loquidy;1,Théophile-Michel Renault;12,1975-06-05 12:43:50
+363,Examen Ier Trimestre;1,Petersen,Gabriela,Allemand;3,La Perverie;4,Emmanuel Fernandes-Lopez	;	2	,1984-08-04 21:05:46
+364,Examen 3eme Trimestre;3,Johnston,Kathleen,Anglais;4,Notre Dame de toutes Aides;3,Marguerite Michel;8,2001-05-18 02:53:40
+365,Examen 2eme Trimestre;2,Rice,Raymond,Math;1,Chavagne;2,Raymond-Philippe Bernard;4,1988-10-28 21:01:39
+366,Examen Ier Trimestre;1,Russell,Allison,Allemand;3,Notre Dame de toutes Aides;3,Eleonore Leroy Le Giraud;14,1970-09-21 13:49:01
+367,Examen Ier Trimestre;1,Medina,Michael,Francais;5,La Perverie;4,Thibaut Boulay;6,2017-09-21 05:03:43
+368,Examen 2eme Trimestre;2,Evans,Helen,Anglais;4,Loquidy;1,Emmanuel Fernandes-Lopez	;	2	,2009-07-22 11:57:41
+369,Examen Ier Trimestre;1,Kelly,James,Francais;5,Lycée Clemenceau;5Lycée Saint Stanislas;6,Raymond-Philippe Bernard;4,2004-08-30 03:36:28
+370,Examen 2eme Trimestre;2,Cruz,Elizabeth,Hist-Géo;2,La Perverie;4,Jacqueline de Bruneau;7,2000-01-06 20:53:39
+371,Examen 3eme Trimestre;3,Roman,Erika,Allemand;3,Chavagne;2,Jacqueline de Bruneau;7,1985-12-28 11:06:10
+372,Examen 2eme Trimestre;2,Richardson,Benjamin,Anglais;4,Chavagne;2,Corinne du Gaillard;1,1992-12-30 10:07:07
+373,Examen Ier Trimestre;1,Manning,Leslie,Math;1,La Perverie;4,Emmanuel Fernandes-Lopez	;	2	,1993-09-16 21:18:13
+374,Examen Ier Trimestre;1,Brown,Michael,Hist-Géo;2,Chavagne;2,Augustin Gauthier-Allard;9,1979-08-21 16:22:27
+375,Examen 3eme Trimestre;3,Hill,Richard,Anglais;4,Chavagne;2,Raymond-Philippe Bernard;4,2013-08-08 08:11:43
+376,Examen 2eme Trimestre;2,Hoover,Angie,Hist-Géo;2,Loquidy;1,Sophie Parent;11,2014-03-11 03:56:05
+377,Examen Ier Trimestre;1,Randolph,Krystal,Hist-Géo;2,Notre Dame de toutes Aides;3,Corinne du Gaillard;1,2008-11-05 11:06:56
+378,Examen Ier Trimestre;1,Wright,James,Hist-Géo;2,Lycée Clemenceau;5Lycée Saint Stanislas;6,Raymond-Philippe Bernard;4,1971-03-24 19:38:31
+379,Examen 3eme Trimestre;3,Hudson,Ashley,Anglais;4,Lycée Clemenceau;5Lycée Saint Stanislas;6,Jacqueline de Bruneau;7,1988-06-14 02:57:02
+380,Examen 3eme Trimestre;3,Glover,Logan,Francais;5,Chavagne;2,Emmanuel Fernandes-Lopez	;	2	,1998-06-03 07:58:45
+381,Examen 3eme Trimestre;3,Watkins,Nicole,Allemand;3,La Perverie;4,Juliette Renault;13,1984-10-03 05:17:07
+382,Examen 2eme Trimestre;2,Robles,John,Francais;5,Notre Dame de toutes Aides;3,Eleonore Leroy Le Giraud;14,2009-01-31 22:23:27
+383,Examen Ier Trimestre;1,Barnes,Mark,Anglais;4,Chavagne;2,Daniel Bertin-Martin;5,1977-05-29 00:43:23
+384,Examen 2eme Trimestre;2,Drake,Ann,Allemand;3,Lycée Clemenceau;5Lycée Saint Stanislas;6,Marcel Didier;10,2019-06-08 21:18:48
+385,Examen 3eme Trimestre;3,Hicks,William,Math;1,Loquidy;1,Eleonore Leroy Le Giraud;14,2015-05-31 00:50:19
+386,Examen 2eme Trimestre;2,Mills,Brittany,Anglais;4,Notre Dame de toutes Aides;3,Sophie Parent;11,1983-05-24 03:03:36
+387,Examen Ier Trimestre;1,Wells,Rebecca,Francais;5,Notre Dame de toutes Aides;3,Raymond-Philippe Bernard;4,2003-09-25 17:56:23
+388,Examen 2eme Trimestre;2,Jones,Barbara,Math;1,La Perverie;4,Thibaut Boulay;6,1974-08-07 23:04:04
+389,Examen Ier Trimestre;1,Berg,Paula,Anglais;4,Notre Dame de toutes Aides;3,Marcel Didier;10,2014-04-05 22:19:44
+390,Examen 3eme Trimestre;3,Leon,Kathryn,Anglais;4,La Perverie;4,Thibaut Boulay;6,2003-01-26 18:37:21
+391,Examen 2eme Trimestre;2,Lucas,Cynthia,Hist-Géo;2,La Perverie;4,Raymond-Philippe Bernard;4,2005-12-10 02:04:40
+392,Examen Ier Trimestre;1,Wolfe,Melissa,Anglais;4,Lycée Clemenceau;5Lycée Saint Stanislas;6,Augustin Gauthier-Allard;9,1997-02-27 19:47:21
+393,Examen 2eme Trimestre;2,Owen,Jessica,Francais;5,Lycée Clemenceau;5Lycée Saint Stanislas;6,Marcel Didier;10,2018-10-02 22:39:29
+394,Examen Ier Trimestre;1,Kim,Nicholas,Anglais;4,La Perverie;4,Raymond-Philippe Bernard;4,1995-07-28 09:36:18
+395,Examen 3eme Trimestre;3,Smith,Brian,Math;1,Chavagne;2,Théophile-Michel Renault;12,1993-04-23 10:09:12
+396,Examen 3eme Trimestre;3,Pittman,Don,Math;1,La Perverie;4,Sophie Parent;11,1992-11-24 13:33:02
+397,Examen Ier Trimestre;1,Douglas,Evan,Hist-Géo;2,Lycée Clemenceau;5Lycée Saint Stanislas;6,Raymond-Philippe Bernard;4,2014-07-31 19:39:26
+398,Examen Ier Trimestre;1,Cannon,Eric,Francais;5,Chavagne;2,Marcel Didier;10,1970-06-30 23:57:14
+399,Examen 3eme Trimestre;3,Vega,Stephanie,Allemand;3,Chavagne;2,Pauline Boulay	;3,2004-11-28 21:39:24
+400,Examen 2eme Trimestre;2,Barker,Angela,Anglais;4,Chavagne;2,Augustin Gauthier-Allard;9,1984-02-24 11:08:47
+401,Examen Ier Trimestre;1,Ball,Shelby,Anglais;4,Chavagne;2,Sophie Parent;11,1998-03-24 10:47:56
+402,Examen Ier Trimestre;1,Rodriguez,Donald,Math;1,Loquidy;1,Marcel Didier;10,2023-08-16 01:28:29
+403,Examen 3eme Trimestre;3,Myers,David,Math;1,Chavagne;2,Jacqueline de Bruneau;7,2006-04-14 15:04:57
+404,Examen 3eme Trimestre;3,Stanley,Kenneth,Allemand;3,Loquidy;1,Eleonore Leroy Le Giraud;14,2022-11-23 11:56:27
+405,Examen Ier Trimestre;1,Allen,Nathaniel,Hist-Géo;2,La Perverie;4,Emmanuel Fernandes-Lopez	;	2	,2003-05-27 09:48:42
+406,Examen Ier Trimestre;1,Lane,Katrina,Hist-Géo;2,Loquidy;1,Sophie Parent;11,1988-04-29 01:31:22
+407,Examen 3eme Trimestre;3,Hall,Zachary,Allemand;3,La Perverie;4,Augustin Gauthier-Allard;9,1979-05-23 03:40:28
+408,Examen 3eme Trimestre;3,Weiss,Kevin,Hist-Géo;2,Lycée Clemenceau;5Lycée Saint Stanislas;6,Sophie Parent;11,2015-12-18 00:17:28
+409,Examen 3eme Trimestre;3,Hernandez,Jared,Math;1,Notre Dame de toutes Aides;3,Eleonore Leroy Le Giraud;14,1977-03-19 21:31:58
+410,Examen Ier Trimestre;1,Gibbs,Kaylee,Anglais;4,Notre Dame de toutes Aides;3,Eleonore Leroy Le Giraud;14,2002-05-13 18:55:30
+411,Examen Ier Trimestre;1,Johnson,Thomas,Anglais;4,Chavagne;2,Eleonore Leroy Le Giraud;14,2017-09-02 12:06:48
+412,Examen 3eme Trimestre;3,Smith,Jennifer,Allemand;3,Loquidy;1,Augustin Gauthier-Allard;9,1991-06-01 13:30:29
+413,Examen 3eme Trimestre;3,Jones,Danielle,Math;1,Notre Dame de toutes Aides;3,Augustin Gauthier-Allard;9,2021-05-19 12:12:23
+414,Examen Ier Trimestre;1,Jensen,Christopher,Allemand;3,Chavagne;2,Eleonore Leroy Le Giraud;14,1999-10-05 11:13:16
+415,Examen 3eme Trimestre;3,Clark,Maria,Anglais;4,La Perverie;4,Marguerite Michel;8,1979-01-02 05:28:47
+416,Examen Ier Trimestre;1,Lambert,Tiffany,Anglais;4,Lycée Clemenceau;5Lycée Saint Stanislas;6,Marguerite Michel;8,2000-07-26 18:22:15
+417,Examen 2eme Trimestre;2,Smith,Jessica,Math;1,Notre Dame de toutes Aides;3,Théophile-Michel Renault;12,1983-07-06 11:10:16
+418,Examen Ier Trimestre;1,Calhoun,Ruth,Francais;5,La Perverie;4,Marguerite Michel;8,1978-04-07 09:07:42
+419,Examen 3eme Trimestre;3,Nguyen,Stephanie,Hist-Géo;2,Chavagne;2,Jacqueline de Bruneau;7,1994-11-25 21:31:54
+420,Examen 2eme Trimestre;2,Ford,John,Anglais;4,La Perverie;4,Jacqueline de Bruneau;7,1988-01-30 22:48:44
+421,Examen 3eme Trimestre;3,Yu,Emily,Allemand;3,Loquidy;1,Emmanuel Fernandes-Lopez	;	2	,1989-08-07 23:31:10
+422,Examen Ier Trimestre;1,Wright,Brandy,Hist-Géo;2,Notre Dame de toutes Aides;3,Théophile-Michel Renault;12,2000-09-13 21:59:46
+423,Examen 2eme Trimestre;2,Reyes,Chad,Francais;5,Notre Dame de toutes Aides;3,Marguerite Michel;8,1988-06-27 01:43:49
+424,Examen 2eme Trimestre;2,Jackson,Jose,Anglais;4,Chavagne;2,Eleonore Leroy Le Giraud;14,1992-08-01 11:26:40
+425,Examen 3eme Trimestre;3,Carroll,Dwayne,Anglais;4,Notre Dame de toutes Aides;3,Marguerite Michel;8,2018-04-02 11:12:38
+426,Examen 2eme Trimestre;2,Johnston,Patricia,Allemand;3,Notre Dame de toutes Aides;3,Juliette Renault;13,1996-12-16 17:24:42
+427,Examen Ier Trimestre;1,Rodriguez,Scott,Anglais;4,Chavagne;2,Marcel Didier;10,2001-06-22 23:24:02
+428,Examen Ier Trimestre;1,Brown,Richard,Hist-Géo;2,La Perverie;4,Sophie Parent;11,1985-03-15 04:47:22
+429,Examen Ier Trimestre;1,Smith,Raymond,Hist-Géo;2,La Perverie;4,Corinne du Gaillard;1,1988-07-20 22:24:31
+430,Examen 2eme Trimestre;2,Miles,Jonathan,Allemand;3,Lycée Clemenceau;5Lycée Saint Stanislas;6,Daniel Bertin-Martin;5,1989-07-09 10:37:34
+431,Examen Ier Trimestre;1,Mitchell,Tracy,Math;1,Notre Dame de toutes Aides;3,Pauline Boulay	;3,1983-03-19 21:55:45
+432,Examen 2eme Trimestre;2,Gomez,Jason,Anglais;4,Chavagne;2,Pauline Boulay	;3,1992-08-06 06:55:08
+433,Examen 3eme Trimestre;3,Hall,Alyssa,Anglais;4,Chavagne;2,Raymond-Philippe Bernard;4,2015-11-10 21:14:48
+434,Examen 2eme Trimestre;2,Lucas,Jamie,Anglais;4,Loquidy;1,Marguerite Michel;8,1992-09-23 09:00:15
+435,Examen 2eme Trimestre;2,Williams,Abigail,Hist-Géo;2,Lycée Clemenceau;5Lycée Saint Stanislas;6,Juliette Renault;13,1979-12-30 01:21:13
+436,Examen 2eme Trimestre;2,Mullen,Ronald,Allemand;3,Notre Dame de toutes Aides;3,Corinne du Gaillard;1,2022-09-09 05:20:04
+437,Examen Ier Trimestre;1,Mcmillan,Lindsay,Hist-Géo;2,La Perverie;4,Théophile-Michel Renault;12,2003-08-23 01:38:07
+438,Examen 3eme Trimestre;3,Johnson,Christina,Francais;5,Loquidy;1,Daniel Bertin-Martin;5,2011-04-14 01:10:37
+439,Examen 2eme Trimestre;2,Huffman,Joseph,Math;1,Notre Dame de toutes Aides;3,Jacqueline de Bruneau;7,1980-02-15 22:08:53
+440,Examen 3eme Trimestre;3,Hale,Joshua,Hist-Géo;2,La Perverie;4,Thibaut Boulay;6,2024-08-31 12:44:00
+441,Examen Ier Trimestre;1,Caldwell,Mary,Anglais;4,Chavagne;2,Théophile-Michel Renault;12,1971-10-17 04:05:47
+442,Examen Ier Trimestre;1,Garza,Sarah,Allemand;3,Notre Dame de toutes Aides;3,Théophile-Michel Renault;12,1977-02-07 12:08:49
+443,Examen Ier Trimestre;1,Mathews,Christine,Math;1,Loquidy;1,Augustin Gauthier-Allard;9,2010-07-31 18:11:35
+444,Examen 3eme Trimestre;3,Prince,Emily,Allemand;3,Notre Dame de toutes Aides;3,Augustin Gauthier-Allard;9,1991-03-22 16:26:06
+445,Examen 2eme Trimestre;2,Graham,Christopher,Hist-Géo;2,Loquidy;1,Juliette Renault;13,1999-12-21 11:25:04
+446,Examen 2eme Trimestre;2,Watts,Wendy,Allemand;3,Loquidy;1,Augustin Gauthier-Allard;9,2010-08-16 10:55:41
+447,Examen 2eme Trimestre;2,Benitez,Melanie,Math;1,Loquidy;1,Augustin Gauthier-Allard;9,2010-01-28 00:52:30
+448,Examen 2eme Trimestre;2,Webster,Jerry,Francais;5,Notre Dame de toutes Aides;3,Jacqueline de Bruneau;7,2021-05-28 22:11:16
+449,Examen Ier Trimestre;1,Guzman,Kristin,Hist-Géo;2,Loquidy;1,Thibaut Boulay;6,2010-12-16 07:36:44
+450,Examen Ier Trimestre;1,Jackson,Nancy,Anglais;4,Notre Dame de toutes Aides;3,Sophie Parent;11,2023-02-27 07:33:18
+451,Examen 2eme Trimestre;2,House,Martin,Hist-Géo;2,Loquidy;1,Eleonore Leroy Le Giraud;14,1997-04-16 19:11:06
+452,Examen Ier Trimestre;1,Jones,Michael,Anglais;4,Loquidy;1,Eleonore Leroy Le Giraud;14,1987-07-20 21:23:57
+453,Examen Ier Trimestre;1,Wagner,Shawn,Hist-Géo;2,Chavagne;2,Augustin Gauthier-Allard;9,1975-05-13 13:01:05
+454,Examen 2eme Trimestre;2,Williams,Jeffrey,Francais;5,La Perverie;4,Sophie Parent;11,1972-08-24 12:15:35
+455,Examen 2eme Trimestre;2,Kim,Frank,Anglais;4,Lycée Clemenceau;5Lycée Saint Stanislas;6,Marcel Didier;10,1997-12-18 19:58:53
+456,Examen 2eme Trimestre;2,Davis,Christian,Anglais;4,La Perverie;4,Eleonore Leroy Le Giraud;14,1983-07-05 15:58:37
+457,Examen 3eme Trimestre;3,Oliver,Vincent,Francais;5,Notre Dame de toutes Aides;3,Augustin Gauthier-Allard;9,2017-07-28 01:40:04
+458,Examen 3eme Trimestre;3,Pearson,Erica,Allemand;3,Chavagne;2,Marguerite Michel;8,1993-10-02 22:06:02
+459,Examen 3eme Trimestre;3,Carter,Andrew,Math;1,Chavagne;2,Jacqueline de Bruneau;7,1981-11-29 20:10:59
+460,Examen Ier Trimestre;1,Ochoa,Alvin,Anglais;4,Lycée Clemenceau;5Lycée Saint Stanislas;6,Daniel Bertin-Martin;5,1998-07-13 14:21:52
+461,Examen 3eme Trimestre;3,Garcia,Daniel,Hist-Géo;2,Notre Dame de toutes Aides;3,Marcel Didier;10,1984-06-12 20:04:22
+462,Examen 3eme Trimestre;3,Patterson,Debra,Francais;5,Chavagne;2,Marcel Didier;10,2007-01-24 13:47:10
+463,Examen 3eme Trimestre;3,Porter,Peter,Math;1,Notre Dame de toutes Aides;3,Jacqueline de Bruneau;7,1995-08-15 15:42:32
+464,Examen 3eme Trimestre;3,Rodriguez,Timothy,Anglais;4,Loquidy;1,Jacqueline de Bruneau;7,1989-06-23 13:00:07
+465,Examen Ier Trimestre;1,Fischer,Antonio,Anglais;4,Loquidy;1,Pauline Boulay	;3,1995-03-03 22:42:07
+466,Examen Ier Trimestre;1,Ramirez,Andrew,Hist-Géo;2,Notre Dame de toutes Aides;3,Corinne du Gaillard;1,1996-04-05 17:02:32
+467,Examen 2eme Trimestre;2,Ray,Kevin,Hist-Géo;2,Loquidy;1,Raymond-Philippe Bernard;4,1981-02-05 13:59:30
+468,Examen Ier Trimestre;1,Sanchez,Jennifer,Anglais;4,Notre Dame de toutes Aides;3,Marguerite Michel;8,1996-08-30 07:24:41
+469,Examen 3eme Trimestre;3,Allen,Dennis,Allemand;3,Chavagne;2,Augustin Gauthier-Allard;9,1988-04-22 21:37:30
+470,Examen 2eme Trimestre;2,Simmons,James,Allemand;3,Loquidy;1,Thibaut Boulay;6,1997-09-25 10:24:23
+471,Examen 3eme Trimestre;3,Mullen,Ellen,Anglais;4,Chavagne;2,Augustin Gauthier-Allard;9,1985-07-27 12:44:58
+472,Examen Ier Trimestre;1,Duncan,Michael,Math;1,Lycée Clemenceau;5Lycée Saint Stanislas;6,Sophie Parent;11,1987-05-21 15:33:15
+473,Examen 3eme Trimestre;3,Williams,Tamara,Anglais;4,Loquidy;1,Juliette Renault;13,1975-03-18 19:18:16
+474,Examen 3eme Trimestre;3,Rivera,Kyle,Hist-Géo;2,Lycée Clemenceau;5Lycée Saint Stanislas;6,Marcel Didier;10,2018-06-24 21:09:52
+475,Examen 2eme Trimestre;2,Anderson,Kristen,Allemand;3,Chavagne;2,Sophie Parent;11,1976-11-25 01:52:52
+476,Examen 3eme Trimestre;3,Long,Laura,Francais;5,Loquidy;1,Eleonore Leroy Le Giraud;14,1974-01-21 16:39:29
+477,Examen Ier Trimestre;1,Luna,Donald,Francais;5,Chavagne;2,Raymond-Philippe Bernard;4,2015-07-07 20:46:18
+478,Examen 3eme Trimestre;3,Salas,Adam,Math;1,Chavagne;2,Marcel Didier;10,1974-11-06 15:29:33
+479,Examen 2eme Trimestre;2,Williams,Mary,Allemand;3,Lycée Clemenceau;5Lycée Saint Stanislas;6,Marcel Didier;10,2007-03-02 07:32:31
+480,Examen 2eme Trimestre;2,Phillips,Nathaniel,Francais;5,Chavagne;2,Corinne du Gaillard;1,1994-01-24 00:49:50
+481,Examen 3eme Trimestre;3,Kelly,Benjamin,Anglais;4,Loquidy;1,Jacqueline de Bruneau;7,1988-10-10 10:40:21
+482,Examen Ier Trimestre;1,Carter,Susan,Hist-Géo;2,Chavagne;2,Daniel Bertin-Martin;5,1990-09-26 19:16:06
+483,Examen 2eme Trimestre;2,Thompson,Annette,Allemand;3,Lycée Clemenceau;5Lycée Saint Stanislas;6,Juliette Renault;13,2019-01-12 00:59:58
+484,Examen 2eme Trimestre;2,Ford,Catherine,Allemand;3,Loquidy;1,Théophile-Michel Renault;12,2025-01-20 07:58:34
+485,Examen 2eme Trimestre;2,Miller,Kayla,Francais;5,Loquidy;1,Marguerite Michel;8,1984-01-21 04:08:26
+486,Examen 3eme Trimestre;3,Bowers,Michael,Anglais;4,Lycée Clemenceau;5Lycée Saint Stanislas;6,Raymond-Philippe Bernard;4,1972-09-02 17:56:15
+487,Examen 2eme Trimestre;2,Hawkins,Diane,Math;1,Loquidy;1,Théophile-Michel Renault;12,2003-10-20 05:22:32
+488,Examen 3eme Trimestre;3,Perez,Joseph,Anglais;4,La Perverie;4,Corinne du Gaillard;1,1978-08-08 13:36:35
+489,Examen Ier Trimestre;1,Mays,Monica,Allemand;3,Lycée Clemenceau;5Lycée Saint Stanislas;6,Marguerite Michel;8,1993-08-10 05:13:35
+490,Examen 2eme Trimestre;2,Lee,Lindsey,Math;1,Notre Dame de toutes Aides;3,Sophie Parent;11,2014-05-23 07:18:36
+491,Examen 2eme Trimestre;2,Vasquez,Cassandra,Francais;5,Loquidy;1,Pauline Boulay	;3,1991-09-27 03:30:20
+492,Examen 3eme Trimestre;3,Castro,Carrie,Hist-Géo;2,La Perverie;4,Théophile-Michel Renault;12,1999-08-27 08:06:06
+493,Examen Ier Trimestre;1,Williamson,Dakota,Math;1,Chavagne;2,Théophile-Michel Renault;12,2011-09-04 09:36:54
+494,Examen Ier Trimestre;1,Fernandez,Ana,Francais;5,Loquidy;1,Daniel Bertin-Martin;5,1981-01-07 01:20:09
+495,Examen Ier Trimestre;1,Clark,Natalie,Francais;5,Notre Dame de toutes Aides;3,Pauline Boulay	;3,2013-04-14 03:19:58
+496,Examen Ier Trimestre;1,Melendez,Glenn,Math;1,Notre Dame de toutes Aides;3,Eleonore Leroy Le Giraud;14,1989-03-11 04:39:00
+497,Examen 3eme Trimestre;3,Webb,Linda,Allemand;3,Notre Dame de toutes Aides;3,Raymond-Philippe Bernard;4,1999-06-24 13:28:43
+498,Examen 3eme Trimestre;3,Patton,Justin,Anglais;4,Loquidy;1,Daniel Bertin-Martin;5,2012-07-21 01:30:58
+499,Examen Ier Trimestre;1,Perez,Natasha,Anglais;4,Lycée Clemenceau;5Lycée Saint Stanislas;6,Marcel Didier;10,2021-09-11 21:07:42
+500,Examen 3eme Trimestre;3,Fox,Lauren,Math;1,La Perverie;4,Emmanuel Fernandes-Lopez	;	2	,1984-03-28 23:41:07
+501,Examen 3eme Trimestre;3,Jimenez,Lucas,Hist-Géo;2,Loquidy;1,Thibaut Boulay;6,1984-04-20 16:20:56
+502,Examen 2eme Trimestre;2,Hayes,Angela,Anglais;4,La Perverie;4,Eleonore Leroy Le Giraud;14,1976-08-04 10:27:53
+503,Examen 2eme Trimestre;2,Callahan,Sara,Allemand;3,Chavagne;2,Jacqueline de Bruneau;7,2008-05-25 08:37:44
+504,Examen 2eme Trimestre;2,Armstrong,William,Anglais;4,Lycée Clemenceau;5Lycée Saint Stanislas;6,Raymond-Philippe Bernard;4,1988-05-28 06:43:52
+505,Examen 3eme Trimestre;3,Ibarra,Alison,Anglais;4,La Perverie;4,Augustin Gauthier-Allard;9,1994-01-05 05:11:09
+506,Examen 3eme Trimestre;3,Sampson,Julia,Francais;5,Lycée Clemenceau;5Lycée Saint Stanislas;6,Théophile-Michel Renault;12,1970-08-17 14:20:57
+507,Examen 2eme Trimestre;2,Walker,Rodney,Francais;5,Chavagne;2,Juliette Renault;13,2001-07-26 18:45:36
+508,Examen 2eme Trimestre;2,Lopez,Keith,Francais;5,Chavagne;2,Marcel Didier;10,1984-07-14 02:13:47
+509,Examen 2eme Trimestre;2,Hughes,Renee,Anglais;4,Lycée Clemenceau;5Lycée Saint Stanislas;6,Pauline Boulay	;3,2019-02-26 14:50:21
+510,Examen Ier Trimestre;1,Rice,Nathan,Anglais;4,Loquidy;1,Sophie Parent;11,2019-06-22 08:18:41
+511,Examen Ier Trimestre;1,Smith,William,Anglais;4,Notre Dame de toutes Aides;3,Marcel Didier;10,2025-04-10 23:46:27
+512,Examen 3eme Trimestre;3,Green,Joshua,Hist-Géo;2,La Perverie;4,Thibaut Boulay;6,2008-06-11 23:33:11
+513,Examen 3eme Trimestre;3,Martin,Anthony,Anglais;4,Notre Dame de toutes Aides;3,Emmanuel Fernandes-Lopez	;	2	,1986-01-20 01:03:35
+514,Examen 3eme Trimestre;3,Martin,Brent,Allemand;3,Loquidy;1,Eleonore Leroy Le Giraud;14,2017-03-05 00:05:14
+515,Examen 2eme Trimestre;2,Edwards,Thomas,Anglais;4,Lycée Clemenceau;5Lycée Saint Stanislas;6,Sophie Parent;11,2008-12-16 02:39:06
+516,Examen 2eme Trimestre;2,Chavez,Richard,Math;1,Notre Dame de toutes Aides;3,Juliette Renault;13,2008-12-31 06:08:45
+517,Examen 2eme Trimestre;2,Wright,David,Francais;5,Chavagne;2,Théophile-Michel Renault;12,1988-03-21 23:27:09
+518,Examen 2eme Trimestre;2,Blankenship,Carla,Allemand;3,La Perverie;4,Jacqueline de Bruneau;7,1981-02-11 18:10:33
+519,Examen 2eme Trimestre;2,Sanchez,Scott,Hist-Géo;2,Loquidy;1,Marcel Didier;10,1980-04-01 14:22:25
+520,Examen Ier Trimestre;1,Washington,Pamela,Francais;5,Loquidy;1,Théophile-Michel Renault;12,2003-10-12 08:31:53
+521,Examen Ier Trimestre;1,Russo,Jackie,Math;1,La Perverie;4,Eleonore Leroy Le Giraud;14,1980-06-14 04:36:05
+522,Examen 3eme Trimestre;3,Perez,Michael,Math;1,Notre Dame de toutes Aides;3,Thibaut Boulay;6,2017-01-17 02:21:40
+523,Examen Ier Trimestre;1,Morales,Miguel,Francais;5,Chavagne;2,Daniel Bertin-Martin;5,1988-07-28 23:52:00
+524,Examen 3eme Trimestre;3,Wilson,Bryan,Anglais;4,Chavagne;2,Pauline Boulay	;3,2019-08-14 09:14:22
+525,Examen 2eme Trimestre;2,Nelson,John,Hist-Géo;2,Lycée Clemenceau;5Lycée Saint Stanislas;6,Emmanuel Fernandes-Lopez	;	2	,2020-09-12 04:47:20
+526,Examen 2eme Trimestre;2,Chavez,Faith,Francais;5,Chavagne;2,Thibaut Boulay;6,2020-09-06 01:06:05
+527,Examen 3eme Trimestre;3,Barton,Debra,Anglais;4,Loquidy;1,Jacqueline de Bruneau;7,1988-06-06 19:55:10
+528,Examen 2eme Trimestre;2,Perez,Henry,Allemand;3,La Perverie;4,Augustin Gauthier-Allard;9,1986-02-15 10:04:46
+529,Examen Ier Trimestre;1,Frederick,Roberta,Anglais;4,Chavagne;2,Théophile-Michel Renault;12,1988-04-23 08:41:21
+530,Examen 3eme Trimestre;3,Lewis,Jennifer,Francais;5,Lycée Clemenceau;5Lycée Saint Stanislas;6,Raymond-Philippe Bernard;4,2010-11-09 11:06:15
+531,Examen 3eme Trimestre;3,Lopez,Brenda,Hist-Géo;2,Chavagne;2,Eleonore Leroy Le Giraud;14,2006-04-29 23:26:14
+532,Examen Ier Trimestre;1,Lara,Julie,Allemand;3,La Perverie;4,Pauline Boulay	;3,1989-10-28 01:31:27
+533,Examen Ier Trimestre;1,Mendez,Russell,Math;1,La Perverie;4,Augustin Gauthier-Allard;9,2024-07-23 23:29:18
+534,Examen 2eme Trimestre;2,Bailey,Lisa,Francais;5,Notre Dame de toutes Aides;3,Théophile-Michel Renault;12,2006-05-10 15:51:04
+535,Examen 3eme Trimestre;3,Massey,Robert,Francais;5,Loquidy;1,Augustin Gauthier-Allard;9,1985-02-12 18:09:18
+536,Examen 2eme Trimestre;2,Thompson,Adam,Anglais;4,Loquidy;1,Raymond-Philippe Bernard;4,2001-07-05 23:17:03
+537,Examen 2eme Trimestre;2,Summers,David,Anglais;4,Notre Dame de toutes Aides;3,Eleonore Leroy Le Giraud;14,1970-02-24 17:41:06
+538,Examen 2eme Trimestre;2,Kelly,Sara,Anglais;4,Notre Dame de toutes Aides;3,Emmanuel Fernandes-Lopez	;	2	,1984-06-08 21:31:45
+539,Examen Ier Trimestre;1,Hunt,Steven,Francais;5,Chavagne;2,Emmanuel Fernandes-Lopez	;	2	,2017-09-16 21:45:55
+540,Examen 2eme Trimestre;2,Baker,Mark,Hist-Géo;2,Notre Dame de toutes Aides;3,Thibaut Boulay;6,1992-06-09 07:22:39
+541,Examen 3eme Trimestre;3,Ballard,Alison,Francais;5,La Perverie;4,Marcel Didier;10,2004-08-03 16:23:24
+542,Examen 2eme Trimestre;2,Fernandez,Stefanie,Francais;5,La Perverie;4,Marguerite Michel;8,1977-04-15 09:57:15
+543,Examen 2eme Trimestre;2,Williams,Alex,Allemand;3,Notre Dame de toutes Aides;3,Juliette Renault;13,1999-05-27 21:45:24
+544,Examen 2eme Trimestre;2,Grimes,Steven,Allemand;3,Notre Dame de toutes Aides;3,Juliette Renault;13,1984-01-29 22:19:16
+545,Examen Ier Trimestre;1,Clements,Kari,Francais;5,Notre Dame de toutes Aides;3,Raymond-Philippe Bernard;4,2001-11-19 11:23:19
+546,Examen 3eme Trimestre;3,Jackson,Gabriella,Math;1,Loquidy;1,Théophile-Michel Renault;12,1974-09-19 06:23:55
+547,Examen 3eme Trimestre;3,Fernandez,Samantha,Hist-Géo;2,Loquidy;1,Augustin Gauthier-Allard;9,1977-01-02 03:08:55
+548,Examen 3eme Trimestre;3,Ingram,Christopher,Anglais;4,Loquidy;1,Raymond-Philippe Bernard;4,2024-02-08 09:47:55
+549,Examen Ier Trimestre;1,Ramirez,Rebecca,Francais;5,Notre Dame de toutes Aides;3,Corinne du Gaillard;1,2017-03-02 15:39:50
+550,Examen 3eme Trimestre;3,Allen,Michael,Francais;5,Notre Dame de toutes Aides;3,Emmanuel Fernandes-Lopez	;	2	,2000-05-19 01:12:12
+551,Examen 2eme Trimestre;2,Hopkins,Bill,Francais;5,Loquidy;1,Théophile-Michel Renault;12,1978-06-24 15:08:11
+552,Examen 2eme Trimestre;2,Brock,Lisa,Francais;5,Loquidy;1,Jacqueline de Bruneau;7,2002-02-19 05:47:25
+553,Examen 3eme Trimestre;3,Hill,Denise,Math;1,Chavagne;2,Sophie Parent;11,2016-10-17 02:07:28
+554,Examen 3eme Trimestre;3,Hogan,Matthew,Francais;5,Lycée Clemenceau;5Lycée Saint Stanislas;6,Corinne du Gaillard;1,2007-09-04 20:30:01
+555,Examen 3eme Trimestre;3,Anderson,Denise,Math;1,Lycée Clemenceau;5Lycée Saint Stanislas;6,Corinne du Gaillard;1,1987-10-20 06:39:38
+556,Examen 2eme Trimestre;2,Ballard,Lori,Hist-Géo;2,Notre Dame de toutes Aides;3,Emmanuel Fernandes-Lopez	;	2	,1988-05-26 00:00:05
+557,Examen Ier Trimestre;1,Campbell,John,Math;1,Lycée Clemenceau;5Lycée Saint Stanislas;6,Juliette Renault;13,2002-10-19 08:59:12
+558,Examen Ier Trimestre;1,Bates,John,Francais;5,La Perverie;4,Sophie Parent;11,1971-03-21 23:42:15
+559,Examen 3eme Trimestre;3,Case,Sara,Allemand;3,Loquidy;1,Augustin Gauthier-Allard;9,2009-09-19 21:46:13
+560,Examen Ier Trimestre;1,Berg,Diana,Francais;5,Loquidy;1,Jacqueline de Bruneau;7,2020-12-27 12:13:08
+561,Examen 2eme Trimestre;2,Horn,Joseph,Hist-Géo;2,Chavagne;2,Pauline Boulay	;3,1970-10-17 15:27:16
+562,Examen 2eme Trimestre;2,Mays,Mark,Hist-Géo;2,La Perverie;4,Emmanuel Fernandes-Lopez	;	2	,1995-05-31 15:11:45
+563,Examen 2eme Trimestre;2,Schwartz,Jessica,Allemand;3,Notre Dame de toutes Aides;3,Juliette Renault;13,1975-07-19 07:33:23
+564,Examen 2eme Trimestre;2,Wright,Lucas,Francais;5,Lycée Clemenceau;5Lycée Saint Stanislas;6,Corinne du Gaillard;1,1972-03-10 16:16:24
+565,Examen 2eme Trimestre;2,Williams,Stephen,Francais;5,Notre Dame de toutes Aides;3,Pauline Boulay	;3,2001-09-08 10:49:07
+566,Examen 2eme Trimestre;2,Gonzales,William,Hist-Géo;2,Lycée Clemenceau;5Lycée Saint Stanislas;6,Eleonore Leroy Le Giraud;14,1972-08-14 23:28:41
+567,Examen 3eme Trimestre;3,Warner,Lauren,Francais;5,La Perverie;4,Jacqueline de Bruneau;7,2023-07-28 10:45:23
+568,Examen 2eme Trimestre;2,Tran,Cheyenne,Allemand;3,Chavagne;2,Augustin Gauthier-Allard;9,1979-04-05 17:04:11
+569,Examen Ier Trimestre;1,Snyder,Monica,Hist-Géo;2,Loquidy;1,Jacqueline de Bruneau;7,2003-04-01 01:43:53
+570,Examen Ier Trimestre;1,Mcdonald,Derrick,Anglais;4,Chavagne;2,Daniel Bertin-Martin;5,2002-12-25 21:14:34
+571,Examen 3eme Trimestre;3,Johnson,Rita,Francais;5,Lycée Clemenceau;5Lycée Saint Stanislas;6,Thibaut Boulay;6,1973-02-10 10:17:53
+572,Examen 2eme Trimestre;2,Porter,David,Hist-Géo;2,Loquidy;1,Augustin Gauthier-Allard;9,1994-03-10 00:27:02
+573,Examen 2eme Trimestre;2,Farmer,Tiffany,Math;1,Lycée Clemenceau;5Lycée Saint Stanislas;6,Corinne du Gaillard;1,2020-10-21 12:29:47
+574,Examen 3eme Trimestre;3,Garcia,Michael,Allemand;3,Loquidy;1,Daniel Bertin-Martin;5,2016-10-29 15:00:16
+575,Examen Ier Trimestre;1,Guzman,Nicole,Anglais;4,La Perverie;4,Raymond-Philippe Bernard;4,1976-05-04 04:44:36
+576,Examen Ier Trimestre;1,Dixon,Joseph,Anglais;4,Lycée Clemenceau;5Lycée Saint Stanislas;6,Pauline Boulay	;3,1999-12-09 14:19:33
+577,Examen Ier Trimestre;1,Hall,Diana,Allemand;3,Loquidy;1,Emmanuel Fernandes-Lopez	;	2	,1986-05-21 16:36:00
+578,Examen 3eme Trimestre;3,Mcgrath,Robert,Hist-Géo;2,Notre Dame de toutes Aides;3,Raymond-Philippe Bernard;4,2024-02-06 17:58:12
+579,Examen Ier Trimestre;1,Fisher,Heidi,Francais;5,Lycée Clemenceau;5Lycée Saint Stanislas;6,Pauline Boulay	;3,1995-03-12 05:35:26
+580,Examen Ier Trimestre;1,Miller,Julie,Anglais;4,Loquidy;1,Juliette Renault;13,1970-07-30 07:57:37
+581,Examen Ier Trimestre;1,Crawford,Angela,Math;1,Notre Dame de toutes Aides;3,Daniel Bertin-Martin;5,1979-01-25 08:23:50
+582,Examen 2eme Trimestre;2,Torres,Brittany,Hist-Géo;2,Chavagne;2,Marguerite Michel;8,1985-08-25 10:26:56
+583,Examen Ier Trimestre;1,Campbell,Charles,Allemand;3,Notre Dame de toutes Aides;3,Emmanuel Fernandes-Lopez	;	2	,2015-04-15 22:09:24
+584,Examen 3eme Trimestre;3,Little,Troy,Math;1,Notre Dame de toutes Aides;3,Jacqueline de Bruneau;7,1990-08-22 06:22:21
+585,Examen 2eme Trimestre;2,Rivera,Kathryn,Anglais;4,Notre Dame de toutes Aides;3,Jacqueline de Bruneau;7,2000-11-22 03:35:43
+586,Examen 3eme Trimestre;3,Harris,Kristy,Hist-Géo;2,Notre Dame de toutes Aides;3,Théophile-Michel Renault;12,2006-03-06 13:51:55
+587,Examen 3eme Trimestre;3,Cruz,Samantha,Anglais;4,Loquidy;1,Augustin Gauthier-Allard;9,1992-06-04 11:34:55
+588,Examen 2eme Trimestre;2,Spence,Shannon,Hist-Géo;2,Notre Dame de toutes Aides;3,Jacqueline de Bruneau;7,1992-03-06 15:03:59
+589,Examen 2eme Trimestre;2,Austin,Jeremy,Francais;5,Lycée Clemenceau;5Lycée Saint Stanislas;6,Raymond-Philippe Bernard;4,1990-04-26 06:14:45
+590,Examen 3eme Trimestre;3,Williams,Debra,Hist-Géo;2,La Perverie;4,Théophile-Michel Renault;12,2006-10-18 12:31:49
+591,Examen 2eme Trimestre;2,Norman,Mary,Anglais;4,La Perverie;4,Marguerite Michel;8,2020-04-14 12:17:21
+592,Examen Ier Trimestre;1,Mayer,Alyssa,Anglais;4,La Perverie;4,Thibaut Boulay;6,1978-02-27 10:38:49
+593,Examen 3eme Trimestre;3,Johnson,Joshua,Math;1,Notre Dame de toutes Aides;3,Juliette Renault;13,1987-01-30 04:37:52
+594,Examen 3eme Trimestre;3,Bryant,Adam,Hist-Géo;2,Notre Dame de toutes Aides;3,Marguerite Michel;8,1993-08-09 19:37:56
+595,Examen 2eme Trimestre;2,Santos,Natalie,Francais;5,Loquidy;1,Raymond-Philippe Bernard;4,2000-04-04 17:16:56
+596,Examen Ier Trimestre;1,Smith,William,Francais;5,Lycée Clemenceau;5Lycée Saint Stanislas;6,Daniel Bertin-Martin;5,2012-07-20 07:02:01
+597,Examen 2eme Trimestre;2,Martinez,Donna,Hist-Géo;2,Notre Dame de toutes Aides;3,Marguerite Michel;8,2024-05-25 16:09:57
+598,Examen Ier Trimestre;1,Johnson,Ashley,Francais;5,Loquidy;1,Jacqueline de Bruneau;7,1991-07-19 07:17:47
+599,Examen Ier Trimestre;1,Velasquez,Alicia,Allemand;3,Chavagne;2,Sophie Parent;11,2019-10-21 03:49:43
+600,Examen 2eme Trimestre;2,Ross,Sally,Anglais;4,Lycée Clemenceau;5Lycée Saint Stanislas;6,Corinne du Gaillard;1,2021-01-29 07:24:11
+601,Examen 3eme Trimestre;3,Williams,Jose,Math;1,Notre Dame de toutes Aides;3,Eleonore Leroy Le Giraud;14,1970-05-12 05:12:43
+602,Examen 3eme Trimestre;3,Estrada,Christopher,Anglais;4,Chavagne;2,Daniel Bertin-Martin;5,1976-09-13 11:28:00
+603,Examen 3eme Trimestre;3,Combs,Charlotte,Hist-Géo;2,Chavagne;2,Marcel Didier;10,2020-04-29 19:18:24
+604,Examen 3eme Trimestre;3,Whitney,Justin,Math;1,Loquidy;1,Daniel Bertin-Martin;5,1999-03-28 17:47:22
+605,Examen 2eme Trimestre;2,Phillips,Angel,Francais;5,La Perverie;4,Marguerite Michel;8,1992-07-04 18:58:48
+606,Examen Ier Trimestre;1,Gonzalez,Christina,Math;1,Lycée Clemenceau;5Lycée Saint Stanislas;6,Augustin Gauthier-Allard;9,1991-09-13 17:04:37
+607,Examen Ier Trimestre;1,Buck,Richard,Francais;5,La Perverie;4,Sophie Parent;11,1981-04-20 16:05:57
+608,Examen 2eme Trimestre;2,Anderson,William,Francais;5,Notre Dame de toutes Aides;3,Emmanuel Fernandes-Lopez	;	2	,1984-11-29 11:39:27
+609,Examen 3eme Trimestre;3,Cooley,Sara,Francais;5,Loquidy;1,Marguerite Michel;8,2023-04-17 14:01:20
+610,Examen Ier Trimestre;1,Miller,James,Math;1,Lycée Clemenceau;5Lycée Saint Stanislas;6,Emmanuel Fernandes-Lopez	;	2	,1975-05-05 22:17:23
+611,Examen 3eme Trimestre;3,Cook,Christina,Allemand;3,Loquidy;1,Marcel Didier;10,2015-08-07 02:48:37
+612,Examen 2eme Trimestre;2,Shepard,Maurice,Math;1,La Perverie;4,Marcel Didier;10,2005-07-30 23:18:16
+613,Examen 2eme Trimestre;2,Holt,Grant,Math;1,Notre Dame de toutes Aides;3,Augustin Gauthier-Allard;9,2015-07-17 01:31:07
+614,Examen 3eme Trimestre;3,Foster,Jacqueline,Francais;5,Loquidy;1,Pauline Boulay	;3,1978-09-05 19:28:08
+615,Examen 2eme Trimestre;2,Edwards,Sonya,Hist-Géo;2,Loquidy;1,Emmanuel Fernandes-Lopez	;	2	,1989-01-15 19:51:38
+616,Examen Ier Trimestre;1,Martinez,James,Francais;5,Notre Dame de toutes Aides;3,Eleonore Leroy Le Giraud;14,2019-02-17 03:24:04
+617,Examen 3eme Trimestre;3,Turner,Bradley,Francais;5,La Perverie;4,Augustin Gauthier-Allard;9,1978-06-03 02:48:48
+618,Examen 2eme Trimestre;2,Dunn,Justin,Allemand;3,Notre Dame de toutes Aides;3,Jacqueline de Bruneau;7,2017-02-17 07:59:29
+619,Examen Ier Trimestre;1,Gray,Gary,Francais;5,Notre Dame de toutes Aides;3,Pauline Boulay	;3,2019-04-20 14:24:39
+620,Examen Ier Trimestre;1,Lane,Angelica,Allemand;3,Notre Dame de toutes Aides;3,Daniel Bertin-Martin;5,2020-08-14 11:16:52
+621,Examen 3eme Trimestre;3,Bright,Anna,Allemand;3,Chavagne;2,Eleonore Leroy Le Giraud;14,2019-04-19 04:54:05
+622,Examen 3eme Trimestre;3,Wood,Michelle,Francais;5,Notre Dame de toutes Aides;3,Juliette Renault;13,1984-09-22 06:36:21
+623,Examen Ier Trimestre;1,Brown,Michael,Anglais;4,Notre Dame de toutes Aides;3,Thibaut Boulay;6,2024-09-05 00:23:32
+624,Examen Ier Trimestre;1,Rogers,Michael,Hist-Géo;2,La Perverie;4,Raymond-Philippe Bernard;4,1993-04-18 16:47:17
+625,Examen Ier Trimestre;1,Baker,Barbara,Allemand;3,Lycée Clemenceau;5Lycée Saint Stanislas;6,Eleonore Leroy Le Giraud;14,1977-02-17 07:38:52
+626,Examen Ier Trimestre;1,Ramirez,Robin,Hist-Géo;2,La Perverie;4,Juliette Renault;13,1994-06-28 19:50:17
+627,Examen 3eme Trimestre;3,Jones,Michael,Hist-Géo;2,Notre Dame de toutes Aides;3,Thibaut Boulay;6,1978-12-07 08:55:00
+628,Examen 3eme Trimestre;3,Wilson,Kenneth,Hist-Géo;2,Chavagne;2,Pauline Boulay	;3,2022-11-18 22:37:07
+629,Examen Ier Trimestre;1,Zimmerman,Elizabeth,Francais;5,Loquidy;1,Corinne du Gaillard;1,1991-08-24 14:06:23
+630,Examen 3eme Trimestre;3,Frost,Karen,Francais;5,Notre Dame de toutes Aides;3,Marguerite Michel;8,2010-06-02 17:06:33
+631,Examen 2eme Trimestre;2,Merritt,Melinda,Math;1,Loquidy;1,Juliette Renault;13,1995-06-12 13:58:25
+632,Examen 2eme Trimestre;2,Williamson,Andrea,Francais;5,Chavagne;2,Pauline Boulay	;3,1985-11-25 14:51:06
+633,Examen 2eme Trimestre;2,Wright,Jackie,Math;1,Loquidy;1,Augustin Gauthier-Allard;9,1982-12-12 05:37:06
+634,Examen Ier Trimestre;1,Patel,Linda,Math;1,Loquidy;1,Corinne du Gaillard;1,2019-04-13 16:08:00
+635,Examen 2eme Trimestre;2,Turner,Edwin,Allemand;3,Loquidy;1,Emmanuel Fernandes-Lopez	;	2	,1971-08-05 10:10:01
+636,Examen 2eme Trimestre;2,Reynolds,Savannah,Anglais;4,Chavagne;2,Augustin Gauthier-Allard;9,2013-07-02 15:17:08
+637,Examen Ier Trimestre;1,Cochran,Maria,Allemand;3,Lycée Clemenceau;5Lycée Saint Stanislas;6,Marcel Didier;10,1992-08-21 02:13:54
+638,Examen 3eme Trimestre;3,Alexander,Michael,Hist-Géo;2,Notre Dame de toutes Aides;3,Sophie Parent;11,1993-04-21 03:14:20
+639,Examen Ier Trimestre;1,Wells,Melissa,Francais;5,Notre Dame de toutes Aides;3,Jacqueline de Bruneau;7,2003-03-08 21:42:42
+640,Examen Ier Trimestre;1,Russell,Mason,Math;1,Chavagne;2,Corinne du Gaillard;1,2015-06-15 18:39:36
+641,Examen Ier Trimestre;1,Ewing,Brandi,Francais;5,Chavagne;2,Raymond-Philippe Bernard;4,1970-05-01 23:29:54
+642,Examen 2eme Trimestre;2,Buchanan,Heather,Francais;5,Chavagne;2,Corinne du Gaillard;1,2001-07-14 04:53:35
+643,Examen Ier Trimestre;1,Bishop,Jocelyn,Francais;5,Loquidy;1,Marcel Didier;10,1975-11-04 10:35:07
+644,Examen Ier Trimestre;1,Houston,Jack,Allemand;3,La Perverie;4,Pauline Boulay	;3,1996-06-15 11:45:12
+645,Examen Ier Trimestre;1,Johnston,Kyle,Allemand;3,Notre Dame de toutes Aides;3,Juliette Renault;13,1978-01-23 19:54:59
+646,Examen 3eme Trimestre;3,Harrington,William,Math;1,Loquidy;1,Jacqueline de Bruneau;7,2001-02-05 07:08:37
+647,Examen 3eme Trimestre;3,Martin,Claire,Math;1,Loquidy;1,Corinne du Gaillard;1,1981-01-17 20:54:16
+648,Examen Ier Trimestre;1,Cooper,Heidi,Allemand;3,Notre Dame de toutes Aides;3,Augustin Gauthier-Allard;9,1987-10-18 05:10:30
+649,Examen Ier Trimestre;1,Newton,Sheila,Hist-Géo;2,Lycée Clemenceau;5Lycée Saint Stanislas;6,Marcel Didier;10,2018-09-23 07:52:26
+650,Examen Ier Trimestre;1,Brewer,Matthew,Anglais;4,Chavagne;2,Corinne du Gaillard;1,1984-07-28 17:41:46
+651,Examen 3eme Trimestre;3,Vance,Christopher,Math;1,Chavagne;2,Sophie Parent;11,2005-07-27 15:59:29
+652,Examen 2eme Trimestre;2,Swanson,Wendy,Math;1,Chavagne;2,Emmanuel Fernandes-Lopez	;	2	,1995-04-08 01:04:26
+653,Examen Ier Trimestre;1,Lewis,Eric,Hist-Géo;2,Notre Dame de toutes Aides;3,Marcel Didier;10,2021-03-29 22:41:43
+654,Examen Ier Trimestre;1,Torres,Virginia,Francais;5,Notre Dame de toutes Aides;3,Sophie Parent;11,1992-02-14 02:16:53
+655,Examen 2eme Trimestre;2,Rice,Maria,Francais;5,La Perverie;4,Pauline Boulay	;3,1988-04-28 07:21:11
+656,Examen 2eme Trimestre;2,Sanchez,Suzanne,Math;1,Lycée Clemenceau;5Lycée Saint Stanislas;6,Raymond-Philippe Bernard;4,2014-06-23 08:42:31
+657,Examen 2eme Trimestre;2,Cobb,Catherine,Hist-Géo;2,Loquidy;1,Thibaut Boulay;6,1990-09-04 02:15:36
+658,Examen 2eme Trimestre;2,Daniels,Courtney,Hist-Géo;2,Loquidy;1,Jacqueline de Bruneau;7,1976-12-15 12:45:33
+659,Examen Ier Trimestre;1,Lopez,James,Allemand;3,La Perverie;4,Daniel Bertin-Martin;5,2015-10-26 17:39:40
+660,Examen 3eme Trimestre;3,Chen,Sandra,Francais;5,Loquidy;1,Juliette Renault;13,1985-01-10 03:02:54
+661,Examen Ier Trimestre;1,Chang,Jonathan,Hist-Géo;2,Chavagne;2,Juliette Renault;13,2003-09-28 20:12:54
+662,Examen 2eme Trimestre;2,Cook,Kevin,Francais;5,Chavagne;2,Pauline Boulay	;3,1985-03-19 14:47:08
+663,Examen 2eme Trimestre;2,Henderson,Michelle,Math;1,Loquidy;1,Corinne du Gaillard;1,1994-06-21 00:29:23
+664,Examen 2eme Trimestre;2,Johnson,Sarah,Anglais;4,Loquidy;1,Sophie Parent;11,2023-10-08 16:34:03
+665,Examen 3eme Trimestre;3,Simmons,Samantha,Hist-Géo;2,Notre Dame de toutes Aides;3,Théophile-Michel Renault;12,1978-05-09 11:32:54
+666,Examen 2eme Trimestre;2,Brown,William,Hist-Géo;2,Notre Dame de toutes Aides;3,Sophie Parent;11,2003-06-15 12:35:35
+667,Examen 3eme Trimestre;3,Walker,Julia,Anglais;4,Loquidy;1,Eleonore Leroy Le Giraud;14,2004-08-27 12:45:23
+668,Examen 3eme Trimestre;3,Hoover,Amy,Anglais;4,La Perverie;4,Marcel Didier;10,2005-07-27 11:57:44
+669,Examen 2eme Trimestre;2,Kelly,Tracy,Allemand;3,Chavagne;2,Thibaut Boulay;6,2010-06-10 09:22:05
+670,Examen 2eme Trimestre;2,Smith,Kelly,Math;1,Chavagne;2,Marguerite Michel;8,2004-06-26 01:05:21
+671,Examen 3eme Trimestre;3,Guzman,Mark,Francais;5,La Perverie;4,Raymond-Philippe Bernard;4,1979-04-29 17:01:47
+672,Examen 3eme Trimestre;3,Huff,Jessica,Francais;5,Loquidy;1,Sophie Parent;11,1977-03-19 15:29:34
+673,Examen 3eme Trimestre;3,Meyers,Sarah,Allemand;3,Loquidy;1,Corinne du Gaillard;1,1984-11-13 22:42:33
+674,Examen 2eme Trimestre;2,Vance,Lawrence,Anglais;4,Loquidy;1,Sophie Parent;11,1976-03-12 04:05:37
+675,Examen 2eme Trimestre;2,Haney,Regina,Anglais;4,Loquidy;1,Marguerite Michel;8,1992-08-07 15:03:51
+676,Examen 2eme Trimestre;2,Garrett,Jennifer,Anglais;4,La Perverie;4,Théophile-Michel Renault;12,2002-10-21 11:29:11
+677,Examen 2eme Trimestre;2,Mullins,Marcia,Francais;5,Notre Dame de toutes Aides;3,Marcel Didier;10,2023-12-29 02:21:09
+678,Examen 2eme Trimestre;2,Nguyen,Nicholas,Anglais;4,La Perverie;4,Daniel Bertin-Martin;5,1993-07-28 17:48:25
+679,Examen Ier Trimestre;1,Barrera,Brittany,Hist-Géo;2,La Perverie;4,Juliette Renault;13,1974-07-23 18:38:34
+680,Examen 3eme Trimestre;3,Boone,Samuel,Hist-Géo;2,Chavagne;2,Pauline Boulay	;3,2008-05-15 08:42:23
+681,Examen Ier Trimestre;1,Gilbert,Amber,Anglais;4,Loquidy;1,Raymond-Philippe Bernard;4,2007-09-06 08:52:59
+682,Examen 3eme Trimestre;3,Giles,Linda,Math;1,Loquidy;1,Thibaut Boulay;6,1987-03-12 15:44:54
+683,Examen Ier Trimestre;1,Dorsey,Peter,Math;1,Notre Dame de toutes Aides;3,Juliette Renault;13,1991-02-27 09:52:01
+684,Examen 2eme Trimestre;2,Sullivan,Gloria,Hist-Géo;2,Notre Dame de toutes Aides;3,Théophile-Michel Renault;12,2012-03-24 16:09:48
+685,Examen 3eme Trimestre;3,Hayes,Noah,Hist-Géo;2,Lycée Clemenceau;5Lycée Saint Stanislas;6,Marguerite Michel;8,2011-04-16 10:49:41
+686,Examen Ier Trimestre;1,Miller,Marcus,Math;1,Chavagne;2,Juliette Renault;13,1995-07-08 15:36:43
+687,Examen 3eme Trimestre;3,Terry,Mike,Francais;5,Chavagne;2,Jacqueline de Bruneau;7,1998-12-10 17:16:39
+688,Examen 3eme Trimestre;3,Bates,Jennifer,Math;1,La Perverie;4,Sophie Parent;11,2004-05-12 21:56:59
+689,Examen Ier Trimestre;1,Gregory,Tammie,Anglais;4,Notre Dame de toutes Aides;3,Corinne du Gaillard;1,2011-10-24 18:55:25
+690,Examen 3eme Trimestre;3,Simmons,Teresa,Math;1,Notre Dame de toutes Aides;3,Daniel Bertin-Martin;5,1996-07-27 03:21:38
+691,Examen 3eme Trimestre;3,Taylor,Penny,Allemand;3,Lycée Clemenceau;5Lycée Saint Stanislas;6,Marcel Didier;10,2007-09-08 03:10:02
+692,Examen 3eme Trimestre;3,Phillips,Laura,Hist-Géo;2,Loquidy;1,Corinne du Gaillard;1,2016-01-31 08:31:57
+693,Examen 3eme Trimestre;3,Hansen,Kaitlyn,Hist-Géo;2,Lycée Clemenceau;5Lycée Saint Stanislas;6,Daniel Bertin-Martin;5,1977-05-19 11:19:07
+694,Examen Ier Trimestre;1,Shelton,Kathy,Math;1,La Perverie;4,Théophile-Michel Renault;12,2002-08-02 04:52:20
+695,Examen Ier Trimestre;1,Buckley,Peter,Anglais;4,Loquidy;1,Corinne du Gaillard;1,2011-08-21 03:47:35
+696,Examen Ier Trimestre;1,Mcpherson,Richard,Hist-Géo;2,La Perverie;4,Daniel Bertin-Martin;5,1983-06-19 09:53:12
+697,Examen 3eme Trimestre;3,Morton,Jack,Anglais;4,Lycée Clemenceau;5Lycée Saint Stanislas;6,Marcel Didier;10,1975-01-20 23:08:34
+698,Examen 3eme Trimestre;3,Robbins,Joseph,Math;1,Lycée Clemenceau;5Lycée Saint Stanislas;6,Juliette Renault;13,1971-08-25 17:15:02
+699,Examen 2eme Trimestre;2,Brewer,Katie,Francais;5,La Perverie;4,Raymond-Philippe Bernard;4,1977-04-12 00:01:48
+700,Examen 2eme Trimestre;2,Wolfe,Bradley,Allemand;3,Loquidy;1,Marcel Didier;10,2015-04-18 13:44:14
+701,Examen 3eme Trimestre;3,Oliver,Amanda,Math;1,Chavagne;2,Jacqueline de Bruneau;7,2004-02-18 12:15:06
+702,Examen Ier Trimestre;1,Bridges,Shaun,Anglais;4,Lycée Clemenceau;5Lycée Saint Stanislas;6,Emmanuel Fernandes-Lopez	;	2	,1985-07-27 16:50:00
+703,Examen 3eme Trimestre;3,Russell,Cassandra,Math;1,Loquidy;1,Marcel Didier;10,2017-11-08 04:05:33
+704,Examen Ier Trimestre;1,Cruz,Victoria,Anglais;4,La Perverie;4,Juliette Renault;13,1990-05-27 21:12:20
+705,Examen 3eme Trimestre;3,Stein,John,Allemand;3,Loquidy;1,Thibaut Boulay;6,1999-05-10 03:42:08
+706,Examen 3eme Trimestre;3,Collins,Rhonda,Allemand;3,Chavagne;2,Jacqueline de Bruneau;7,1987-06-01 02:30:19
+707,Examen 2eme Trimestre;2,Hunter,Jonathan,Math;1,Loquidy;1,Eleonore Leroy Le Giraud;14,1977-02-12 01:17:52
+708,Examen 3eme Trimestre;3,Juarez,Amanda,Hist-Géo;2,La Perverie;4,Juliette Renault;13,1973-09-06 11:22:18
+709,Examen Ier Trimestre;1,Cline,Samuel,Allemand;3,Chavagne;2,Marcel Didier;10,1994-08-12 14:13:23
+710,Examen 2eme Trimestre;2,Hudson,Susan,Anglais;4,Loquidy;1,Marcel Didier;10,1979-11-20 20:11:04
+711,Examen 3eme Trimestre;3,Browning,Jonathan,Allemand;3,Chavagne;2,Marguerite Michel;8,2009-03-05 12:58:48
+712,Examen 2eme Trimestre;2,Nelson,Kimberly,Francais;5,Chavagne;2,Thibaut Boulay;6,2023-07-12 13:04:12
+713,Examen 3eme Trimestre;3,Peterson,Marcus,Francais;5,Notre Dame de toutes Aides;3,Emmanuel Fernandes-Lopez	;	2	,2007-07-24 11:59:57
+714,Examen Ier Trimestre;1,Carrillo,Nicholas,Anglais;4,Lycée Clemenceau;5Lycée Saint Stanislas;6,Emmanuel Fernandes-Lopez	;	2	,2010-10-20 08:13:08
+715,Examen Ier Trimestre;1,Melton,Lori,Allemand;3,Lycée Clemenceau;5Lycée Saint Stanislas;6,Pauline Boulay	;3,1985-08-28 11:41:53
+716,Examen 2eme Trimestre;2,Mcconnell,Isabel,Math;1,Notre Dame de toutes Aides;3,Jacqueline de Bruneau;7,2001-03-11 05:57:42
+717,Examen 2eme Trimestre;2,Marsh,Gregory,Allemand;3,Loquidy;1,Juliette Renault;13,1972-10-29 04:24:42
+718,Examen 2eme Trimestre;2,Harmon,Carl,Allemand;3,Notre Dame de toutes Aides;3,Marguerite Michel;8,2012-07-09 17:11:57
+719,Examen 2eme Trimestre;2,Marshall,Brandon,Math;1,Loquidy;1,Marguerite Michel;8,1971-11-19 15:45:50
+720,Examen Ier Trimestre;1,Vaughan,Mary,Math;1,Notre Dame de toutes Aides;3,Eleonore Leroy Le Giraud;14,1975-01-31 06:16:32
+721,Examen Ier Trimestre;1,Cooper,Jeremy,Anglais;4,La Perverie;4,Raymond-Philippe Bernard;4,2000-08-12 23:54:17
+722,Examen 2eme Trimestre;2,Peters,Victoria,Allemand;3,Lycée Clemenceau;5Lycée Saint Stanislas;6,Pauline Boulay	;3,1991-04-29 03:00:01
+723,Examen 2eme Trimestre;2,Allison,Alyssa,Anglais;4,Chavagne;2,Eleonore Leroy Le Giraud;14,1988-02-23 10:49:51
+724,Examen Ier Trimestre;1,Nunez,Julie,Allemand;3,Loquidy;1,Théophile-Michel Renault;12,1985-04-22 18:01:29
+725,Examen 3eme Trimestre;3,Payne,James,Anglais;4,La Perverie;4,Augustin Gauthier-Allard;9,1984-08-31 20:00:28
+726,Examen 3eme Trimestre;3,Walsh,Tammy,Hist-Géo;2,Lycée Clemenceau;5Lycée Saint Stanislas;6,Marguerite Michel;8,1980-05-31 23:22:52
+727,Examen 3eme Trimestre;3,Martin,Jon,Math;1,Lycée Clemenceau;5Lycée Saint Stanislas;6,Jacqueline de Bruneau;7,2013-08-10 17:34:36
+728,Examen 3eme Trimestre;3,Wheeler,Hunter,Francais;5,Notre Dame de toutes Aides;3,Raymond-Philippe Bernard;4,1982-12-02 00:03:50
+729,Examen 2eme Trimestre;2,Fox,Elizabeth,Hist-Géo;2,Notre Dame de toutes Aides;3,Sophie Parent;11,1984-12-16 18:41:41
+730,Examen Ier Trimestre;1,Horne,Laura,Anglais;4,La Perverie;4,Augustin Gauthier-Allard;9,1998-07-30 14:18:55
+731,Examen Ier Trimestre;1,Fisher,Amanda,Math;1,Loquidy;1,Marcel Didier;10,1993-05-19 05:23:00
+732,Examen 3eme Trimestre;3,Fischer,Jennifer,Anglais;4,Loquidy;1,Marcel Didier;10,1988-09-22 20:40:35
+733,Examen Ier Trimestre;1,Morales,Carol,Anglais;4,Chavagne;2,Jacqueline de Bruneau;7,1979-11-20 01:15:56
+734,Examen Ier Trimestre;1,Cox,Shannon,Francais;5,La Perverie;4,Jacqueline de Bruneau;7,1993-03-23 23:26:47
+735,Examen 2eme Trimestre;2,Schmitt,Christine,Allemand;3,Notre Dame de toutes Aides;3,Corinne du Gaillard;1,2007-09-28 02:58:13
+736,Examen 3eme Trimestre;3,Kent,Jennifer,Francais;5,Notre Dame de toutes Aides;3,Marcel Didier;10,1994-12-15 03:00:37
+737,Examen 2eme Trimestre;2,Dixon,Whitney,Francais;5,Chavagne;2,Marcel Didier;10,1984-11-25 11:10:20
+738,Examen Ier Trimestre;1,Armstrong,Joshua,Math;1,Chavagne;2,Théophile-Michel Renault;12,1986-07-26 19:30:16
+739,Examen 2eme Trimestre;2,Dunn,Martha,Math;1,Chavagne;2,Théophile-Michel Renault;12,2012-06-08 19:36:41
+740,Examen Ier Trimestre;1,Robertson,Diane,Allemand;3,Loquidy;1,Juliette Renault;13,1974-10-10 11:45:43
+741,Examen 2eme Trimestre;2,Higgins,Daniel,Hist-Géo;2,Chavagne;2,Emmanuel Fernandes-Lopez	;	2	,1980-01-29 20:22:16
+742,Examen 2eme Trimestre;2,Henry,James,Hist-Géo;2,Notre Dame de toutes Aides;3,Augustin Gauthier-Allard;9,1976-03-16 00:35:34
+743,Examen 2eme Trimestre;2,Carter,Tonya,Francais;5,La Perverie;4,Marcel Didier;10,1993-12-25 20:02:32
+744,Examen 2eme Trimestre;2,Kline,Cheryl,Francais;5,Notre Dame de toutes Aides;3,Pauline Boulay	;3,1982-06-13 18:35:59
+745,Examen 3eme Trimestre;3,Moon,Rodney,Francais;5,Loquidy;1,Daniel Bertin-Martin;5,2001-06-25 06:47:20
+746,Examen 2eme Trimestre;2,Fry,Joseph,Francais;5,Chavagne;2,Marguerite Michel;8,2018-12-24 14:30:19
+747,Examen Ier Trimestre;1,Donaldson,Jonathan,Allemand;3,Chavagne;2,Juliette Renault;13,1973-10-28 00:16:23
+748,Examen 2eme Trimestre;2,Williams,Adrian,Allemand;3,Loquidy;1,Augustin Gauthier-Allard;9,1990-06-08 22:46:49
+749,Examen Ier Trimestre;1,Smith,Ryan,Allemand;3,La Perverie;4,Eleonore Leroy Le Giraud;14,1987-07-18 15:59:01
+750,Examen Ier Trimestre;1,Love,Andrew,Math;1,La Perverie;4,Pauline Boulay	;3,1994-11-12 22:12:23
+751,Examen 2eme Trimestre;2,Glover,Jesse,Francais;5,Loquidy;1,Marcel Didier;10,2022-09-16 07:23:24
+752,Examen 2eme Trimestre;2,Gonzalez,Erica,Francais;5,Lycée Clemenceau;5Lycée Saint Stanislas;6,Marguerite Michel;8,1970-04-06 19:58:17
+753,Examen Ier Trimestre;1,Clark,Kyle,Allemand;3,La Perverie;4,Marguerite Michel;8,2024-06-23 06:08:07
+754,Examen Ier Trimestre;1,Mcgrath,Nicole,Math;1,Chavagne;2,Marcel Didier;10,1978-01-17 00:18:59
+755,Examen 3eme Trimestre;3,Mathews,Jennifer,Math;1,Chavagne;2,Juliette Renault;13,2010-09-23 01:03:07
+756,Examen 3eme Trimestre;3,Garcia,Melissa,Francais;5,Loquidy;1,Marcel Didier;10,1973-04-07 15:29:44
+757,Examen 3eme Trimestre;3,Orr,Jeffrey,Hist-Géo;2,Chavagne;2,Emmanuel Fernandes-Lopez	;	2	,1998-05-04 22:45:51
+758,Examen 3eme Trimestre;3,Miller,Jeremy,Francais;5,La Perverie;4,Augustin Gauthier-Allard;9,1984-12-26 23:16:39
+759,Examen 3eme Trimestre;3,Brown,Tommy,Hist-Géo;2,Lycée Clemenceau;5Lycée Saint Stanislas;6,Marcel Didier;10,1972-03-01 23:35:55
+760,Examen 2eme Trimestre;2,Jordan,Gregory,Francais;5,Chavagne;2,Corinne du Gaillard;1,1997-11-03 18:41:14
+761,Examen Ier Trimestre;1,Stewart,Evan,Math;1,La Perverie;4,Marcel Didier;10,1978-02-09 15:56:58
+762,Examen Ier Trimestre;1,Miller,Laura,Math;1,La Perverie;4,Sophie Parent;11,1972-05-31 11:51:21
+763,Examen Ier Trimestre;1,Jimenez,Daniel,Francais;5,Loquidy;1,Pauline Boulay	;3,2001-06-19 04:37:35
+764,Examen 2eme Trimestre;2,Hodges,Derek,Hist-Géo;2,Lycée Clemenceau;5Lycée Saint Stanislas;6,Marcel Didier;10,1980-04-16 02:20:14
+765,Examen 3eme Trimestre;3,Shaw,Jose,Francais;5,Notre Dame de toutes Aides;3,Sophie Parent;11,2009-10-28 15:57:50
+766,Examen 2eme Trimestre;2,Scott,Joel,Anglais;4,Lycée Clemenceau;5Lycée Saint Stanislas;6,Juliette Renault;13,1975-09-07 14:37:31
+767,Examen 2eme Trimestre;2,Villarreal,Anthony,Francais;5,Chavagne;2,Juliette Renault;13,2021-10-03 02:28:22
+768,Examen 3eme Trimestre;3,Medina,Valerie,Anglais;4,Loquidy;1,Marcel Didier;10,1981-05-02 20:47:25
+769,Examen 3eme Trimestre;3,Hernandez,Patricia,Anglais;4,La Perverie;4,Jacqueline de Bruneau;7,1976-08-29 08:39:31
+770,Examen Ier Trimestre;1,Rivera,Robin,Math;1,Loquidy;1,Juliette Renault;13,2009-10-20 00:28:15
+771,Examen Ier Trimestre;1,Kirk,Nicholas,Math;1,Loquidy;1,Marguerite Michel;8,1994-08-29 05:20:57
+772,Examen 2eme Trimestre;2,Oconnell,Frank,Anglais;4,Notre Dame de toutes Aides;3,Eleonore Leroy Le Giraud;14,2017-03-25 02:46:23
+773,Examen Ier Trimestre;1,Lambert,Elizabeth,Francais;5,Notre Dame de toutes Aides;3,Corinne du Gaillard;1,1972-01-25 00:42:08
+774,Examen 2eme Trimestre;2,Rose,Kelly,Francais;5,Lycée Clemenceau;5Lycée Saint Stanislas;6,Jacqueline de Bruneau;7,2013-01-22 14:53:49
+775,Examen Ier Trimestre;1,Benjamin,Debra,Allemand;3,Notre Dame de toutes Aides;3,Pauline Boulay	;3,2000-06-10 02:10:06
+776,Examen 2eme Trimestre;2,Flowers,Andrea,Francais;5,La Perverie;4,Juliette Renault;13,1989-09-03 22:09:50
+777,Examen Ier Trimestre;1,Charles,Linda,Anglais;4,La Perverie;4,Eleonore Leroy Le Giraud;14,1998-07-20 17:28:27
+778,Examen Ier Trimestre;1,Robinson,William,Anglais;4,La Perverie;4,Raymond-Philippe Bernard;4,2009-11-18 04:23:38
+779,Examen 2eme Trimestre;2,Clark,David,Francais;5,Chavagne;2,Marguerite Michel;8,2009-10-07 19:18:25
+780,Examen 3eme Trimestre;3,Stephenson,Tonya,Francais;5,La Perverie;4,Juliette Renault;13,1985-02-22 23:47:38
+781,Examen 2eme Trimestre;2,Sharp,Pamela,Math;1,Notre Dame de toutes Aides;3,Corinne du Gaillard;1,1992-12-22 16:32:59
+782,Examen 3eme Trimestre;3,Chang,Ryan,Allemand;3,Chavagne;2,Jacqueline de Bruneau;7,1981-06-26 07:46:45
+783,Examen 3eme Trimestre;3,Martinez,Frank,Hist-Géo;2,Lycée Clemenceau;5Lycée Saint Stanislas;6,Daniel Bertin-Martin;5,1978-02-13 08:41:40
+784,Examen Ier Trimestre;1,Williams,Robert,Francais;5,Lycée Clemenceau;5Lycée Saint Stanislas;6,Eleonore Leroy Le Giraud;14,2003-03-03 04:01:18
+785,Examen Ier Trimestre;1,Marshall,Rita,Francais;5,Notre Dame de toutes Aides;3,Juliette Renault;13,1996-01-23 00:25:24
+786,Examen 3eme Trimestre;3,Johnson,Amber,Francais;5,Lycée Clemenceau;5Lycée Saint Stanislas;6,Emmanuel Fernandes-Lopez	;	2	,2009-07-25 03:50:50
+787,Examen 3eme Trimestre;3,Williams,Christie,Hist-Géo;2,Lycée Clemenceau;5Lycée Saint Stanislas;6,Raymond-Philippe Bernard;4,1972-06-27 04:39:17
+788,Examen Ier Trimestre;1,Mcdonald,Nicholas,Francais;5,Chavagne;2,Corinne du Gaillard;1,2014-08-03 23:29:59
+789,Examen 2eme Trimestre;2,Smith,Laurie,Math;1,Chavagne;2,Thibaut Boulay;6,1999-12-26 09:12:04
+790,Examen 3eme Trimestre;3,Fernandez,Julia,Allemand;3,Lycée Clemenceau;5Lycée Saint Stanislas;6,Jacqueline de Bruneau;7,1988-03-20 18:49:36
+791,Examen 2eme Trimestre;2,Cooper,Kathy,Hist-Géo;2,Chavagne;2,Daniel Bertin-Martin;5,2015-05-08 17:29:04
+792,Examen 3eme Trimestre;3,Hoover,Kenneth,Allemand;3,Lycée Clemenceau;5Lycée Saint Stanislas;6,Emmanuel Fernandes-Lopez	;	2	,2004-03-12 16:47:24
+793,Examen Ier Trimestre;1,Bell,Barry,Math;1,La Perverie;4,Eleonore Leroy Le Giraud;14,1983-03-18 18:36:56
+794,Examen Ier Trimestre;1,Gonzalez,Denise,Allemand;3,Lycée Clemenceau;5Lycée Saint Stanislas;6,Sophie Parent;11,1987-04-04 10:08:09
+795,Examen 2eme Trimestre;2,Yu,Meghan,Hist-Géo;2,La Perverie;4,Pauline Boulay	;3,1998-05-13 15:02:38
+796,Examen 2eme Trimestre;2,Lopez,Brian,Francais;5,Chavagne;2,Corinne du Gaillard;1,2007-09-09 10:24:46
+797,Examen 3eme Trimestre;3,Brown,Frank,Francais;5,Chavagne;2,Juliette Renault;13,2003-07-03 11:59:25
+798,Examen 3eme Trimestre;3,Hamilton,Jennifer,Anglais;4,Notre Dame de toutes Aides;3,Théophile-Michel Renault;12,2008-01-03 20:39:03
+799,Examen 2eme Trimestre;2,Morales,Jessica,Allemand;3,Chavagne;2,Raymond-Philippe Bernard;4,1980-04-11 06:25:27
+800,Examen Ier Trimestre;1,Allen,Brandy,Math;1,Chavagne;2,Théophile-Michel Renault;12,2004-12-05 04:09:19
+801,Examen 2eme Trimestre;2,Baker,Courtney,Math;1,Loquidy;1,Thibaut Boulay;6,1978-06-03 07:33:21
+802,Examen 2eme Trimestre;2,Vega,Valerie,Allemand;3,Chavagne;2,Emmanuel Fernandes-Lopez	;	2	,1999-03-27 19:01:35
+803,Examen 3eme Trimestre;3,Arnold,Ernest,Math;1,Loquidy;1,Emmanuel Fernandes-Lopez	;	2	,2006-06-02 14:51:59
+804,Examen 3eme Trimestre;3,Harrison,Benjamin,Math;1,Chavagne;2,Raymond-Philippe Bernard;4,2012-07-06 00:58:33
+805,Examen Ier Trimestre;1,Werner,Johnny,Math;1,Lycée Clemenceau;5Lycée Saint Stanislas;6,Thibaut Boulay;6,2012-11-04 12:01:08
+806,Examen 2eme Trimestre;2,Johnson,Anita,Anglais;4,Notre Dame de toutes Aides;3,Emmanuel Fernandes-Lopez	;	2	,2019-06-06 05:22:57
+807,Examen 3eme Trimestre;3,Young,Ashley,Anglais;4,Loquidy;1,Eleonore Leroy Le Giraud;14,1972-04-25 11:36:17
+808,Examen 3eme Trimestre;3,Miles,Dawn,Allemand;3,La Perverie;4,Marcel Didier;10,1979-07-05 08:05:46
+809,Examen 2eme Trimestre;2,Bell,David,Math;1,Chavagne;2,Daniel Bertin-Martin;5,2002-08-10 20:34:59
+810,Examen 3eme Trimestre;3,Carrillo,Rachel,Anglais;4,La Perverie;4,Thibaut Boulay;6,1984-06-10 20:46:09
+811,Examen Ier Trimestre;1,Santos,Megan,Francais;5,La Perverie;4,Pauline Boulay	;3,2009-02-12 05:12:51
+812,Examen Ier Trimestre;1,Villanueva,Linda,Math;1,La Perverie;4,Théophile-Michel Renault;12,2021-05-22 08:01:25
+813,Examen 2eme Trimestre;2,Jones,Brian,Anglais;4,Loquidy;1,Augustin Gauthier-Allard;9,2021-02-13 00:14:38
+814,Examen 2eme Trimestre;2,Jones,Tricia,Anglais;4,Chavagne;2,Raymond-Philippe Bernard;4,2002-07-14 18:20:07
+815,Examen 3eme Trimestre;3,Johnston,Dylan,Anglais;4,Lycée Clemenceau;5Lycée Saint Stanislas;6,Augustin Gauthier-Allard;9,1992-08-11 14:44:11
+816,Examen Ier Trimestre;1,James,Megan,Francais;5,Loquidy;1,Juliette Renault;13,2000-08-24 00:15:14
+817,Examen 2eme Trimestre;2,Hall,Noah,Anglais;4,La Perverie;4,Théophile-Michel Renault;12,2005-02-20 12:19:24
+818,Examen 2eme Trimestre;2,Miller,Whitney,Anglais;4,Lycée Clemenceau;5Lycée Saint Stanislas;6,Daniel Bertin-Martin;5,2022-12-13 17:29:55
+819,Examen Ier Trimestre;1,Lee,Jesus,Allemand;3,Chavagne;2,Thibaut Boulay;6,1978-02-05 21:12:33
+820,Examen 3eme Trimestre;3,Walters,Mary,Francais;5,Loquidy;1,Thibaut Boulay;6,2008-08-14 06:36:28
+821,Examen Ier Trimestre;1,Chen,Garrett,Math;1,Loquidy;1,Jacqueline de Bruneau;7,1980-04-26 23:52:15
+822,Examen Ier Trimestre;1,Keith,Steven,Allemand;3,La Perverie;4,Emmanuel Fernandes-Lopez	;	2	,2005-08-19 09:34:11
+823,Examen 2eme Trimestre;2,Chapman,Christian,Anglais;4,La Perverie;4,Eleonore Leroy Le Giraud;14,1991-08-10 05:05:57
+824,Examen 2eme Trimestre;2,Day,Jennifer,Allemand;3,Lycée Clemenceau;5Lycée Saint Stanislas;6,Théophile-Michel Renault;12,2001-01-07 17:24:14
+825,Examen 2eme Trimestre;2,Thompson,Austin,Hist-Géo;2,Chavagne;2,Daniel Bertin-Martin;5,1988-09-23 22:57:47
+826,Examen Ier Trimestre;1,Meyer,Philip,Anglais;4,La Perverie;4,Raymond-Philippe Bernard;4,1994-04-12 02:59:33
+827,Examen 2eme Trimestre;2,Dunn,Donald,Francais;5,Loquidy;1,Marcel Didier;10,1978-01-26 11:39:30
+828,Examen Ier Trimestre;1,Smith,Nancy,Anglais;4,Loquidy;1,Raymond-Philippe Bernard;4,2003-04-07 00:27:07
+829,Examen Ier Trimestre;1,Adams,Thomas,Math;1,Notre Dame de toutes Aides;3,Pauline Boulay	;3,1987-10-09 17:54:18
+830,Examen Ier Trimestre;1,Williams,Kayla,Allemand;3,Notre Dame de toutes Aides;3,Raymond-Philippe Bernard;4,2024-09-16 09:19:22
+831,Examen 3eme Trimestre;3,Moreno,Eric,Allemand;3,La Perverie;4,Daniel Bertin-Martin;5,1974-01-08 04:10:06
+832,Examen 3eme Trimestre;3,Harrison,Brenda,Allemand;3,Chavagne;2,Marcel Didier;10,2022-05-27 16:01:46
+833,Examen 3eme Trimestre;3,Reynolds,Andrea,Francais;5,Lycée Clemenceau;5Lycée Saint Stanislas;6,Corinne du Gaillard;1,2023-12-16 19:42:24
+834,Examen 2eme Trimestre;2,Rivera,Mark,Hist-Géo;2,Chavagne;2,Augustin Gauthier-Allard;9,1991-03-24 11:19:21
+835,Examen Ier Trimestre;1,Evans,Kathleen,Anglais;4,Lycée Clemenceau;5Lycée Saint Stanislas;6,Eleonore Leroy Le Giraud;14,2022-08-03 15:05:30
+836,Examen 2eme Trimestre;2,Davis,David,Math;1,La Perverie;4,Thibaut Boulay;6,2024-07-09 06:34:16
+837,Examen 2eme Trimestre;2,Gordon,David,Anglais;4,Lycée Clemenceau;5Lycée Saint Stanislas;6,Marcel Didier;10,2018-11-20 04:18:46
+838,Examen 2eme Trimestre;2,Smith,Jennifer,Hist-Géo;2,Chavagne;2,Raymond-Philippe Bernard;4,1998-03-14 06:22:04
+839,Examen Ier Trimestre;1,Villanueva,Joe,Anglais;4,Lycée Clemenceau;5Lycée Saint Stanislas;6,Emmanuel Fernandes-Lopez	;	2	,2009-11-01 19:19:02
+840,Examen 2eme Trimestre;2,Chan,Patrick,Anglais;4,La Perverie;4,Marcel Didier;10,1983-04-01 20:48:05
+841,Examen 2eme Trimestre;2,Miller,Kimberly,Francais;5,Chavagne;2,Daniel Bertin-Martin;5,2014-04-26 01:24:48
+842,Examen 3eme Trimestre;3,Montgomery,Terri,Allemand;3,Chavagne;2,Théophile-Michel Renault;12,1972-03-06 19:46:35
+843,Examen 2eme Trimestre;2,Anderson,James,Francais;5,La Perverie;4,Marcel Didier;10,2004-08-26 19:54:22
+844,Examen Ier Trimestre;1,Johnson,Andre,Allemand;3,Notre Dame de toutes Aides;3,Sophie Parent;11,2016-12-29 12:10:30
+845,Examen Ier Trimestre;1,Richmond,James,Hist-Géo;2,Loquidy;1,Augustin Gauthier-Allard;9,1994-12-12 03:35:59
+846,Examen 3eme Trimestre;3,Osborn,Terrence,Francais;5,Notre Dame de toutes Aides;3,Emmanuel Fernandes-Lopez	;	2	,1977-02-19 12:23:01
+847,Examen 3eme Trimestre;3,Nelson,Tristan,Math;1,Loquidy;1,Augustin Gauthier-Allard;9,2006-02-22 14:02:41
+848,Examen 2eme Trimestre;2,Strickland,Lawrence,Hist-Géo;2,Chavagne;2,Marguerite Michel;8,1970-08-06 04:53:39
+849,Examen 3eme Trimestre;3,Johnson,Rebecca,Anglais;4,La Perverie;4,Thibaut Boulay;6,2016-08-03 14:43:33
+850,Examen Ier Trimestre;1,Odom,Heather,Anglais;4,La Perverie;4,Corinne du Gaillard;1,2008-07-05 10:21:47
+851,Examen 2eme Trimestre;2,Lopez,Madison,Allemand;3,La Perverie;4,Sophie Parent;11,2023-10-21 01:00:29
+852,Examen 2eme Trimestre;2,Cummings,Derrick,Allemand;3,Chavagne;2,Eleonore Leroy Le Giraud;14,1978-07-20 09:39:40
+853,Examen Ier Trimestre;1,Reyes,Robert,Anglais;4,Lycée Clemenceau;5Lycée Saint Stanislas;6,Thibaut Boulay;6,2011-03-12 02:45:49
+854,Examen 2eme Trimestre;2,Jennings,Jocelyn,Francais;5,Lycée Clemenceau;5Lycée Saint Stanislas;6,Jacqueline de Bruneau;7,1984-08-21 09:44:45
+855,Examen 2eme Trimestre;2,Lee,Renee,Allemand;3,Lycée Clemenceau;5Lycée Saint Stanislas;6,Jacqueline de Bruneau;7,2020-01-18 07:23:53
+856,Examen 3eme Trimestre;3,Brooks,Richard,Anglais;4,Lycée Clemenceau;5Lycée Saint Stanislas;6,Jacqueline de Bruneau;7,1974-04-28 11:00:34
+857,Examen 3eme Trimestre;3,Johnson,Martin,Francais;5,Chavagne;2,Jacqueline de Bruneau;7,1974-09-25 07:34:44
+858,Examen 2eme Trimestre;2,Cooper,Timothy,Math;1,Lycée Clemenceau;5Lycée Saint Stanislas;6,Théophile-Michel Renault;12,1988-12-26 21:36:03
+859,Examen 3eme Trimestre;3,Stokes,Erica,Hist-Géo;2,Notre Dame de toutes Aides;3,Marguerite Michel;8,2020-08-23 09:38:57
+860,Examen 3eme Trimestre;3,Dickson,Tracy,Anglais;4,Loquidy;1,Eleonore Leroy Le Giraud;14,2006-06-16 08:56:48
+861,Examen Ier Trimestre;1,Holloway,Regina,Hist-Géo;2,La Perverie;4,Emmanuel Fernandes-Lopez	;	2	,1978-08-04 12:03:41
+862,Examen 3eme Trimestre;3,Hurley,Deborah,Francais;5,Lycée Clemenceau;5Lycée Saint Stanislas;6,Juliette Renault;13,1994-01-31 16:43:39
+863,Examen 3eme Trimestre;3,Powers,Christopher,Francais;5,Lycée Clemenceau;5Lycée Saint Stanislas;6,Marguerite Michel;8,1989-05-07 04:20:25
+864,Examen Ier Trimestre;1,Rogers,Samantha,Anglais;4,Loquidy;1,Eleonore Leroy Le Giraud;14,1977-07-13 13:41:47
+865,Examen 3eme Trimestre;3,Baker,Dale,Anglais;4,Chavagne;2,Marcel Didier;10,2012-11-16 01:42:44
+866,Examen 3eme Trimestre;3,Tran,Jose,Anglais;4,Chavagne;2,Emmanuel Fernandes-Lopez	;	2	,2009-01-23 10:28:45
+867,Examen Ier Trimestre;1,Torres,Eddie,Francais;5,La Perverie;4,Thibaut Boulay;6,1983-09-18 15:29:32
+868,Examen Ier Trimestre;1,Ortiz,Alyssa,Francais;5,La Perverie;4,Juliette Renault;13,1972-05-19 15:32:17
+869,Examen 3eme Trimestre;3,Maynard,Christopher,Francais;5,La Perverie;4,Corinne du Gaillard;1,1977-04-25 17:28:31
+870,Examen Ier Trimestre;1,Powell,Derrick,Allemand;3,Chavagne;2,Daniel Bertin-Martin;5,2020-12-28 15:02:57
+871,Examen 2eme Trimestre;2,Gonzales,David,Math;1,Loquidy;1,Emmanuel Fernandes-Lopez	;	2	,2015-04-19 18:54:46
+872,Examen 2eme Trimestre;2,Reid,Amy,Francais;5,La Perverie;4,Pauline Boulay	;3,2002-07-20 00:29:00
+873,Examen Ier Trimestre;1,Orozco,Cody,Hist-Géo;2,La Perverie;4,Eleonore Leroy Le Giraud;14,2008-01-14 02:11:42
+874,Examen Ier Trimestre;1,Crane,Derrick,Hist-Géo;2,La Perverie;4,Corinne du Gaillard;1,2003-08-11 22:51:23
+875,Examen Ier Trimestre;1,Ochoa,Amy,Hist-Géo;2,Notre Dame de toutes Aides;3,Thibaut Boulay;6,2007-09-23 12:30:24
+876,Examen 3eme Trimestre;3,Peters,Rebekah,Anglais;4,La Perverie;4,Marguerite Michel;8,1992-06-01 00:11:29
+877,Examen 2eme Trimestre;2,Holmes,Eugene,Allemand;3,Chavagne;2,Eleonore Leroy Le Giraud;14,2010-08-18 07:46:20
+878,Examen 2eme Trimestre;2,Kramer,Jimmy,Anglais;4,Lycée Clemenceau;5Lycée Saint Stanislas;6,Juliette Renault;13,2015-06-16 12:19:39
+879,Examen Ier Trimestre;1,Lowe,Nicholas,Anglais;4,Loquidy;1,Eleonore Leroy Le Giraud;14,2020-02-27 17:14:10
+880,Examen 2eme Trimestre;2,Howard,Ashley,Allemand;3,Lycée Clemenceau;5Lycée Saint Stanislas;6,Raymond-Philippe Bernard;4,2019-07-28 12:26:28
+881,Examen 3eme Trimestre;3,Hughes,Samantha,Francais;5,Lycée Clemenceau;5Lycée Saint Stanislas;6,Raymond-Philippe Bernard;4,2019-10-31 00:16:15
+882,Examen Ier Trimestre;1,Atkins,Anne,Francais;5,La Perverie;4,Daniel Bertin-Martin;5,1971-11-24 09:00:47
+883,Examen 2eme Trimestre;2,Beasley,Erica,Math;1,Lycée Clemenceau;5Lycée Saint Stanislas;6,Augustin Gauthier-Allard;9,1975-04-02 05:01:18
+884,Examen 2eme Trimestre;2,Mcgee,Nicole,Francais;5,Chavagne;2,Marcel Didier;10,2023-04-04 19:26:26
+885,Examen 2eme Trimestre;2,Williams,Lisa,Allemand;3,Loquidy;1,Daniel Bertin-Martin;5,2005-02-12 03:01:12
+886,Examen 2eme Trimestre;2,Powers,Sabrina,Hist-Géo;2,Chavagne;2,Emmanuel Fernandes-Lopez	;	2	,2011-11-14 03:35:00
+887,Examen Ier Trimestre;1,Wells,Vanessa,Math;1,Notre Dame de toutes Aides;3,Daniel Bertin-Martin;5,1993-08-14 02:14:27
+888,Examen Ier Trimestre;1,Collins,Donna,Francais;5,Notre Dame de toutes Aides;3,Pauline Boulay	;3,1974-05-27 16:14:34
+889,Examen 2eme Trimestre;2,Hickman,Brittany,Anglais;4,Lycée Clemenceau;5Lycée Saint Stanislas;6,Pauline Boulay	;3,1974-12-07 04:53:00
+890,Examen 2eme Trimestre;2,Liu,Andrew,Math;1,La Perverie;4,Pauline Boulay	;3,2016-12-10 20:25:49
+891,Examen 2eme Trimestre;2,Kelly,Ashley,Francais;5,Notre Dame de toutes Aides;3,Daniel Bertin-Martin;5,1995-04-24 09:21:19
+892,Examen Ier Trimestre;1,Graham,Gina,Math;1,Chavagne;2,Emmanuel Fernandes-Lopez	;	2	,2002-01-21 02:38:19
+893,Examen 3eme Trimestre;3,Thomas,Christina,Anglais;4,La Perverie;4,Corinne du Gaillard;1,1971-04-21 08:11:26
+894,Examen 2eme Trimestre;2,Guerrero,Tyler,Allemand;3,Loquidy;1,Raymond-Philippe Bernard;4,2023-03-27 13:40:09
+895,Examen 3eme Trimestre;3,Mcguire,Joe,Hist-Géo;2,Notre Dame de toutes Aides;3,Eleonore Leroy Le Giraud;14,2009-07-29 13:38:41
+896,Examen 3eme Trimestre;3,Davis,Kurt,Francais;5,Chavagne;2,Juliette Renault;13,2007-06-12 08:17:06
+897,Examen 2eme Trimestre;2,Ruiz,Nancy,Allemand;3,Notre Dame de toutes Aides;3,Emmanuel Fernandes-Lopez	;	2	,1993-01-20 05:41:25
+898,Examen 2eme Trimestre;2,Singh,Angela,Anglais;4,Notre Dame de toutes Aides;3,Jacqueline de Bruneau;7,2005-05-31 10:57:39
+899,Examen 2eme Trimestre;2,Richardson,Joel,Anglais;4,Notre Dame de toutes Aides;3,Sophie Parent;11,2013-09-02 07:21:00
+900,Examen 2eme Trimestre;2,Ramos,Michael,Anglais;4,Chavagne;2,Augustin Gauthier-Allard;9,2010-05-05 17:09:41
+901,Examen Ier Trimestre;1,Gordon,Michael,Math;1,La Perverie;4,Eleonore Leroy Le Giraud;14,2024-08-31 20:14:12
+902,Examen 2eme Trimestre;2,Rice,Jacob,Allemand;3,Lycée Clemenceau;5Lycée Saint Stanislas;6,Thibaut Boulay;6,2024-07-07 10:32:41
+903,Examen Ier Trimestre;1,Mathews,Natalie,Math;1,Loquidy;1,Emmanuel Fernandes-Lopez	;	2	,2000-08-28 16:12:54
+904,Examen 3eme Trimestre;3,Smith,Grace,Allemand;3,Lycée Clemenceau;5Lycée Saint Stanislas;6,Marguerite Michel;8,2004-04-03 13:44:22
+905,Examen 3eme Trimestre;3,Zavala,Sharon,Math;1,Loquidy;1,Juliette Renault;13,1978-04-12 22:56:35
+906,Examen Ier Trimestre;1,Jones,Glenn,Anglais;4,Loquidy;1,Théophile-Michel Renault;12,2024-07-11 06:43:26
+907,Examen 3eme Trimestre;3,Miller,Dawn,Francais;5,La Perverie;4,Marcel Didier;10,1975-11-12 13:37:26
+908,Examen 2eme Trimestre;2,Travis,Michael,Math;1,Chavagne;2,Daniel Bertin-Martin;5,1988-11-07 16:09:47
+909,Examen 2eme Trimestre;2,Mann,Kyle,Francais;5,La Perverie;4,Eleonore Leroy Le Giraud;14,1983-10-22 23:40:32
+910,Examen 2eme Trimestre;2,Ingram,Brian,Allemand;3,La Perverie;4,Corinne du Gaillard;1,1972-10-30 16:58:19
+911,Examen Ier Trimestre;1,Richardson,Phillip,Anglais;4,La Perverie;4,Augustin Gauthier-Allard;9,2016-07-12 00:00:02
+912,Examen 3eme Trimestre;3,Fernandez,Greg,Anglais;4,Notre Dame de toutes Aides;3,Juliette Renault;13,1979-10-23 20:29:32
+913,Examen 2eme Trimestre;2,Hardy,Judy,Math;1,Loquidy;1,Emmanuel Fernandes-Lopez	;	2	,2019-03-28 01:36:54
+914,Examen Ier Trimestre;1,Taylor,John,Hist-Géo;2,Notre Dame de toutes Aides;3,Sophie Parent;11,1997-11-10 17:32:48
+915,Examen Ier Trimestre;1,Villa,Dwayne,Francais;5,Loquidy;1,Emmanuel Fernandes-Lopez	;	2	,1989-10-10 10:35:56
+916,Examen 2eme Trimestre;2,Barber,William,Francais;5,Chavagne;2,Eleonore Leroy Le Giraud;14,1996-08-13 18:55:48
+917,Examen Ier Trimestre;1,Daniel,Christopher,Anglais;4,Loquidy;1,Marcel Didier;10,2023-03-07 23:26:32
+918,Examen Ier Trimestre;1,Mason,Craig,Anglais;4,Loquidy;1,Corinne du Gaillard;1,1971-07-30 03:24:40
+919,Examen 3eme Trimestre;3,Miller,Steven,Allemand;3,La Perverie;4,Marcel Didier;10,2018-09-29 03:08:13
+920,Examen 2eme Trimestre;2,Miller,Janice,Allemand;3,Lycée Clemenceau;5Lycée Saint Stanislas;6,Jacqueline de Bruneau;7,1976-02-21 12:33:13
+921,Examen 3eme Trimestre;3,Small,Garrett,Allemand;3,Lycée Clemenceau;5Lycée Saint Stanislas;6,Augustin Gauthier-Allard;9,1985-12-23 14:41:22
+922,Examen 3eme Trimestre;3,Jensen,Brandon,Hist-Géo;2,Loquidy;1,Emmanuel Fernandes-Lopez	;	2	,1991-03-15 06:01:31
+923,Examen 3eme Trimestre;3,Jones,Matthew,Francais;5,Lycée Clemenceau;5Lycée Saint Stanislas;6,Raymond-Philippe Bernard;4,1982-07-07 22:20:43
+924,Examen 2eme Trimestre;2,Townsend,Gail,Francais;5,Notre Dame de toutes Aides;3,Jacqueline de Bruneau;7,1971-08-06 08:29:43
+925,Examen Ier Trimestre;1,Flores,Karen,Francais;5,Chavagne;2,Juliette Renault;13,2010-07-08 18:02:18
+926,Examen 2eme Trimestre;2,Barton,Joseph,Anglais;4,La Perverie;4,Marcel Didier;10,2017-06-17 04:46:27
+927,Examen 2eme Trimestre;2,Nichols,Jeremy,Hist-Géo;2,Lycée Clemenceau;5Lycée Saint Stanislas;6,Eleonore Leroy Le Giraud;14,1975-03-09 13:07:08
+928,Examen 3eme Trimestre;3,Hoover,Samantha,Anglais;4,Notre Dame de toutes Aides;3,Théophile-Michel Renault;12,2015-08-15 23:00:09
+929,Examen 3eme Trimestre;3,Ware,Scott,Francais;5,Loquidy;1,Jacqueline de Bruneau;7,1973-03-21 16:51:40
+930,Examen Ier Trimestre;1,Johnson,Beverly,Allemand;3,Notre Dame de toutes Aides;3,Daniel Bertin-Martin;5,1997-03-23 11:34:19
+931,Examen 2eme Trimestre;2,Solomon,Jared,Hist-Géo;2,La Perverie;4,Théophile-Michel Renault;12,2019-03-14 02:32:18
+932,Examen Ier Trimestre;1,Smith,Christine,Francais;5,La Perverie;4,Juliette Renault;13,1979-04-27 02:58:18
+933,Examen 2eme Trimestre;2,Harvey,Jennifer,Francais;5,Chavagne;2,Eleonore Leroy Le Giraud;14,2025-01-14 02:15:23
+934,Examen Ier Trimestre;1,Romero,Holly,Allemand;3,La Perverie;4,Thibaut Boulay;6,1990-06-23 08:41:22
+935,Examen 3eme Trimestre;3,Hanson,Sarah,Hist-Géo;2,Chavagne;2,Théophile-Michel Renault;12,1990-12-04 05:24:38
+936,Examen 3eme Trimestre;3,Petersen,Rebecca,Anglais;4,La Perverie;4,Corinne du Gaillard;1,1987-03-27 03:04:44
+937,Examen 2eme Trimestre;2,Rogers,Laura,Math;1,La Perverie;4,Jacqueline de Bruneau;7,2016-08-06 16:36:47
+938,Examen 2eme Trimestre;2,Wilson,Jennifer,Allemand;3,Lycée Clemenceau;5Lycée Saint Stanislas;6,Marcel Didier;10,1973-02-26 22:45:34
+939,Examen 2eme Trimestre;2,Farrell,Janice,Math;1,Chavagne;2,Sophie Parent;11,2015-01-23 18:03:37
+940,Examen 3eme Trimestre;3,Rodriguez,Jonathan,Francais;5,Loquidy;1,Juliette Renault;13,2002-03-24 18:23:43
+941,Examen 3eme Trimestre;3,Schultz,Todd,Francais;5,Loquidy;1,Augustin Gauthier-Allard;9,1995-05-12 07:00:33
+942,Examen 3eme Trimestre;3,Hernandez,Kelly,Hist-Géo;2,La Perverie;4,Théophile-Michel Renault;12,1971-02-06 12:50:35
+943,Examen 2eme Trimestre;2,Jones,Matthew,Hist-Géo;2,Chavagne;2,Eleonore Leroy Le Giraud;14,2008-12-25 14:17:25
+944,Examen Ier Trimestre;1,Dillon,Johnny,Anglais;4,La Perverie;4,Eleonore Leroy Le Giraud;14,1992-01-17 13:21:36
+945,Examen 2eme Trimestre;2,Stanley,Raymond,Math;1,Lycée Clemenceau;5Lycée Saint Stanislas;6,Thibaut Boulay;6,2013-07-12 14:07:00
+946,Examen Ier Trimestre;1,Barber,David,Anglais;4,Lycée Clemenceau;5Lycée Saint Stanislas;6,Emmanuel Fernandes-Lopez	;	2	,1991-04-08 06:12:24
+947,Examen 3eme Trimestre;3,Allen,Daniel,Allemand;3,Notre Dame de toutes Aides;3,Marguerite Michel;8,2018-05-02 09:02:10
+948,Examen 3eme Trimestre;3,Brown,Kevin,Allemand;3,Loquidy;1,Sophie Parent;11,2018-04-07 02:24:25
+949,Examen 3eme Trimestre;3,Sharp,Karen,Allemand;3,Chavagne;2,Marcel Didier;10,1970-05-01 18:26:39
+950,Examen 2eme Trimestre;2,Huang,William,Francais;5,Notre Dame de toutes Aides;3,Jacqueline de Bruneau;7,2022-07-03 21:01:23
+951,Examen Ier Trimestre;1,Kramer,Misty,Hist-Géo;2,Notre Dame de toutes Aides;3,Augustin Gauthier-Allard;9,2024-09-06 02:30:47
+952,Examen 3eme Trimestre;3,Nelson,Melissa,Allemand;3,Notre Dame de toutes Aides;3,Daniel Bertin-Martin;5,1996-12-20 04:40:17
+953,Examen Ier Trimestre;1,Evans,Curtis,Math;1,Loquidy;1,Daniel Bertin-Martin;5,2019-01-06 02:53:41
+954,Examen 2eme Trimestre;2,Burke,Alison,Anglais;4,Chavagne;2,Marguerite Michel;8,1995-07-12 01:20:41
+955,Examen Ier Trimestre;1,Salazar,Jessica,Anglais;4,La Perverie;4,Daniel Bertin-Martin;5,2003-05-01 06:08:25
+956,Examen Ier Trimestre;1,Watts,Michelle,Allemand;3,Notre Dame de toutes Aides;3,Augustin Gauthier-Allard;9,1973-05-15 15:22:13
+957,Examen Ier Trimestre;1,Rogers,Kevin,Allemand;3,Notre Dame de toutes Aides;3,Juliette Renault;13,2016-02-29 08:48:09
+958,Examen 3eme Trimestre;3,Baker,James,Math;1,Chavagne;2,Augustin Gauthier-Allard;9,1971-10-03 01:11:56
+959,Examen 3eme Trimestre;3,Davis,Brandon,Hist-Géo;2,Notre Dame de toutes Aides;3,Augustin Gauthier-Allard;9,1993-07-03 11:08:54
+960,Examen 2eme Trimestre;2,Taylor,Nicholas,Math;1,Loquidy;1,Raymond-Philippe Bernard;4,2014-02-26 12:55:38
+961,Examen 2eme Trimestre;2,Sandoval,Russell,Francais;5,Lycée Clemenceau;5Lycée Saint Stanislas;6,Corinne du Gaillard;1,1984-10-15 20:14:52
+962,Examen 2eme Trimestre;2,Gay,Kimberly,Allemand;3,La Perverie;4,Pauline Boulay	;3,1994-09-20 03:40:56
+963,Examen 3eme Trimestre;3,Henderson,James,Hist-Géo;2,La Perverie;4,Corinne du Gaillard;1,1986-03-14 06:14:24
+964,Examen 2eme Trimestre;2,Williams,Katherine,Allemand;3,Notre Dame de toutes Aides;3,Corinne du Gaillard;1,1971-08-31 02:44:54
+965,Examen Ier Trimestre;1,Larsen,Margaret,Anglais;4,Loquidy;1,Théophile-Michel Renault;12,2011-11-27 00:21:08
+966,Examen 3eme Trimestre;3,Cummings,Brent,Hist-Géo;2,Chavagne;2,Thibaut Boulay;6,1998-05-18 04:03:54
+967,Examen 2eme Trimestre;2,Diaz,Jennifer,Anglais;4,La Perverie;4,Marguerite Michel;8,2023-11-23 11:22:56
+968,Examen Ier Trimestre;1,Mitchell,Eric,Anglais;4,La Perverie;4,Pauline Boulay	;3,2020-08-26 00:22:26
+969,Examen 2eme Trimestre;2,Rodriguez,Kristine,Francais;5,Notre Dame de toutes Aides;3,Daniel Bertin-Martin;5,1990-06-28 21:02:34
+970,Examen 3eme Trimestre;3,Mccarthy,Bethany,Francais;5,Lycée Clemenceau;5Lycée Saint Stanislas;6,Juliette Renault;13,2020-07-07 12:24:13
+971,Examen 2eme Trimestre;2,Garcia,Clayton,Anglais;4,La Perverie;4,Raymond-Philippe Bernard;4,2001-10-20 23:10:12
+972,Examen 2eme Trimestre;2,Acosta,Brent,Francais;5,La Perverie;4,Daniel Bertin-Martin;5,2005-10-25 20:03:17
+973,Examen 3eme Trimestre;3,Bradley,Amanda,Francais;5,Loquidy;1,Thibaut Boulay;6,1976-01-01 23:21:56
+974,Examen 3eme Trimestre;3,Anderson,Samuel,Hist-Géo;2,Lycée Clemenceau;5Lycée Saint Stanislas;6,Daniel Bertin-Martin;5,2004-07-05 19:57:17
+975,Examen 2eme Trimestre;2,Delgado,Crystal,Francais;5,Notre Dame de toutes Aides;3,Eleonore Leroy Le Giraud;14,1980-12-17 18:23:35
+976,Examen 2eme Trimestre;2,Guerrero,Amy,Allemand;3,Lycée Clemenceau;5Lycée Saint Stanislas;6,Juliette Renault;13,1985-09-29 15:16:01
+977,Examen 2eme Trimestre;2,Harris,Jerry,Hist-Géo;2,Lycée Clemenceau;5Lycée Saint Stanislas;6,Juliette Renault;13,2014-05-27 18:05:05
+978,Examen Ier Trimestre;1,Hardy,Lance,Francais;5,Loquidy;1,Augustin Gauthier-Allard;9,1972-05-02 20:04:53
+979,Examen Ier Trimestre;1,Howard,Daniel,Hist-Géo;2,Lycée Clemenceau;5Lycée Saint Stanislas;6,Augustin Gauthier-Allard;9,1995-09-15 04:26:02
+980,Examen Ier Trimestre;1,Stephens,Andrew,Allemand;3,Chavagne;2,Juliette Renault;13,1983-08-21 12:16:07
+981,Examen Ier Trimestre;1,Livingston,Kristin,Math;1,Lycée Clemenceau;5Lycée Saint Stanislas;6,Emmanuel Fernandes-Lopez	;	2	,1992-11-07 15:17:47
+982,Examen Ier Trimestre;1,Bryan,Patrick,Math;1,La Perverie;4,Eleonore Leroy Le Giraud;14,1978-06-14 09:20:00
+983,Examen 2eme Trimestre;2,Vega,Melissa,Francais;5,Loquidy;1,Raymond-Philippe Bernard;4,2017-12-06 23:44:48
+984,Examen 2eme Trimestre;2,Hamilton,Randy,Francais;5,Chavagne;2,Marcel Didier;10,2016-01-09 11:08:15
+985,Examen 2eme Trimestre;2,Sharp,Keith,Math;1,Lycée Clemenceau;5Lycée Saint Stanislas;6,Pauline Boulay	;3,1998-03-05 22:20:24
+986,Examen 3eme Trimestre;3,Phillips,Nathan,Allemand;3,La Perverie;4,Théophile-Michel Renault;12,2006-04-05 18:48:19
+987,Examen 2eme Trimestre;2,Bell,Roberto,Allemand;3,Notre Dame de toutes Aides;3,Pauline Boulay	;3,1973-09-12 21:08:29
+988,Examen Ier Trimestre;1,Ray,Lisa,Allemand;3,La Perverie;4,Marcel Didier;10,1971-08-17 23:20:37
+989,Examen 3eme Trimestre;3,Powers,Dean,Math;1,Lycée Clemenceau;5Lycée Saint Stanislas;6,Daniel Bertin-Martin;5,2007-11-14 07:06:32
+990,Examen Ier Trimestre;1,Reese,Laura,Francais;5,Loquidy;1,Corinne du Gaillard;1,2018-06-22 14:25:21
+991,Examen 2eme Trimestre;2,Fitzgerald,Howard,Math;1,Notre Dame de toutes Aides;3,Augustin Gauthier-Allard;9,1989-09-16 23:12:58
+992,Examen Ier Trimestre;1,Kim,Robert,Anglais;4,Notre Dame de toutes Aides;3,Marguerite Michel;8,1986-09-29 03:14:34
+993,Examen 3eme Trimestre;3,Hogan,Johnathan,Francais;5,Chavagne;2,Augustin Gauthier-Allard;9,1996-09-13 17:19:49
+994,Examen 3eme Trimestre;3,Morales,Abigail,Francais;5,Lycée Clemenceau;5Lycée Saint Stanislas;6,Corinne du Gaillard;1,1972-12-05 08:53:25
+995,Examen 2eme Trimestre;2,Pitts,Yolanda,Francais;5,Chavagne;2,Jacqueline de Bruneau;7,1982-07-23 17:39:56
+996,Examen 3eme Trimestre;3,Bentley,Lisa,Francais;5,Chavagne;2,Thibaut Boulay;6,1978-11-25 04:20:52
+997,Examen Ier Trimestre;1,Thompson,Bryan,Math;1,Lycée Clemenceau;5Lycée Saint Stanislas;6,Raymond-Philippe Bernard;4,1999-04-02 23:42:05
+998,Examen Ier Trimestre;1,Rowe,Diane,Allemand;3,Chavagne;2,Sophie Parent;11,2014-04-28 23:41:04
+999,Examen 3eme Trimestre;3,Horn,Dustin,Anglais;4,Loquidy;1,Eleonore Leroy Le Giraud;14,1999-02-19 15:45:48
+1000,Examen 3eme Trimestre;3,Atkinson,Michael,Allemand;3,Lycée Clemenceau;5Lycée Saint Stanislas;6,Corinne du Gaillard;1,2020-05-11 13:33:27
