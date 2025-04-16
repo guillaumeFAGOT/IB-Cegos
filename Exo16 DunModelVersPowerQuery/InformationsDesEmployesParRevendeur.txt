@@ -1,0 +1,1 @@
+Extraire les  informations des ResellersSales et des Employees et Users pour les intégrer dans une seule table PowerQuery.
