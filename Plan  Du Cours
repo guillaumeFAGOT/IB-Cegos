@@ -1,0 +1,98 @@
+------- JOUR 1 -------
+
+1 - Présentation de l’offre BI de Microsoft
+La Suite Power BI : Power BI Desktop, le service Power BI et les applications Power BI Mobile
++ Présentation des interfaces  -> Suivi de l'information dans PowerBI
+(on peut faire rentrer les  données dans  power bi, les faire ressortir, et  les intégrer)
+
+Business Intelligence
+
+2 - Présentation d’un projet Power BI
+Importer des données et les préparer
+Concevoir un modèle de données
+Définir les types de données
+Additionner des tables
+Créer des colonnes calculées
+
+Atelier
+
+Importer et traiter des fichiers sources
+Exo1 1 Github :
++ Importer un fichier pdf
++ Importer un fichier Excel
++ AccèsAGoogleQuery
+
+++ Vérifer l'accès à PowerBI Service
+
+
+3 - Obtenir les données et les transformer avec l’éditeur de requête (Power Query)
+Utiliser des fichiers plats et des classeurs Excel
+Choisir les colonnes, choisir les lignes, filtrer, supprimer les doublons
+Définir les types de données
+Additionner des tables
+Créer des colonnes calculées
+Atelier
+Importer et traiter des fichiers sources
+
+Atelier
+Exo2 Github Retraitement des données PowerQuery
+Exo3 Github  PowerQuery code M
+
+----- JOUR 2 ---------
+
+4 - Construire le modèle de données
+Identification de la table de faits / des tables de dimensions
+Utiliser la vue Diagramme pour définir les relations entre les tables
+Identification des anomalies
+
+Atelier
+Création des relations, vérification des cardinalités
+Exo4 Github  Modelisation
+Exo5 Tables et Colonnes
+Exo6 Table de Date
+
+5 - Développer son rapport
+Création de rapports, de pages
+Afficher des données : Table, Matrice, Carte
+Formatage et mise en forme conditionnelle
+Interactions entre visuels et segments
+Exploration des autres visuels standards
+Exploiter les graphiques géographiques (cartes)
+Importer des éléments visuels depuis la place de marché
+Notion de contexte
+
+Atelier
+Création de visuels et d’indicateurs
+
+JOUR 3
+
+6 - Fonctions de calcul et d’analyse avec le langage DAX
+Introduction à DAX
+Création de calculs, d’indicateurs avec les mesures
+Focus sur la fonction DAX CALCULATE et ses opérateurs
+Utiliser les fonctions DAX Time Intelligence pour comparer des périodes
+Atelier
+Écrire des fonctions DAX pour calculer des mesures de base telles que les sommes, les moyennes et les totaux cumulés
+
+Créer des mesures complexes utilisant des fonctions DAX avancées comme CALCULATE, FILTER et ALL
+Exo7 Calculate
+Exo9 Code Dax
+Exo9Quarte
+/LaCommandeSummarizeColumns.txt
+
+7 - Partager son rapport
+Présentation de Power BI Online
+Espaces de travail
+Publication de rapport
+Partager via une application Power BI
+Automatisation de la mise à jour des rapports
+Utilisation de sources de données cloud (SharePoint et OneDrive)
+Migrer un rapport développé avec des sources locales
+Mise en place de RLS statique
+Atelier
+Partage de rapport, mise à jour automatique ou manuelle, sécurisation
+
+Exo12 Securité au niveau des lignes
+
+
+
